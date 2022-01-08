@@ -1,17 +1,17 @@
 # Major characters
 
-## The Teen (1)
+## Sase (Teen 1)
 What have the adults failed to teach you?
 Is your voice heard? And when is it listened to?
 How will your growing powers shape you?
 
 
 ### Character Profile
-My name is |name| (he/him).
+My name is Sase(`/ˈsæsɛ/`) (he/him).
 
-I'm human, and when you first see me you'll probably notice my dyed hair, lanky appendages, and disinterested stance.
+I'm Kihǔ, and when you first see me you'll probably notice my imposing size (for a Kihǔ), molting scales, and disinterested stance.
 
-I wear a brand-name shirt, torn pants, and alwasys carry my heavily-stickered hoverboard.
+I wear a brand-name shirt, torn pants, and always carry my heavily-stickered hoverboard.
 
 As much of a pain it is to go to school, I'm always excited to learn about microbioprogramming but hate station civics, even though I wish I could just be practicing tricks. After school, you can usually find me hanging out with my friends exploring restricted sections or at my part time job as a cashier at The Angry Ape.
 
@@ -29,15 +29,18 @@ When can I just be myself?
 ### Insights
 I was caught at ground zero with my friends.
 
+--------------------------------------------
+--------------------------------------------
+--------------------------------------------
 
-## The Teen (2)
+## Ágdá - Teen 2
 What have the adults failed to teach you?
 Is your voice heard? And when is it listened to?
 How will your growing powers shape you?
 
 
 ### Character Profile
-My name is |name| (she/her).
+My name is Ágdá (`/ˈɑgdɑ/`) (she/her).
 
 I'm human, and when you first see me you'll probably notice my acne scars, proud colors, and chatty attitude.
 
