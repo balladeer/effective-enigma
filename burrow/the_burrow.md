@@ -38,7 +38,34 @@ Answer a story question through improvised play.
 *Read the Station*.
 Gather perspectives from your community on a vital issue.
 
+# Scene Templates
+-----------------------
+%% Dynamite Proactive
+## Scene Goal
 
+## Crucible
+
+## Setback (or Victory)
+
+-----------------------
+%% Dynamite Reactive
+## Reaction
+
+## Dillema
+
+## Decision
+
+-----------------------
+%% Kishōtenketsu
+## Introduction
+
+## Development
+
+## Twist
+
+## Reconciliation
+
+-----------------------
 # Meta-story plan
 ## Rough word counts
 No more than 5k words, 1250 per section.
@@ -53,3 +80,30 @@ Reconcile: 1250
 - A single change from my novel (3rd person limited, past tense)
 
 
+
+
+
+# Brainstorm a few structures
+
+## Refuge, Innocuous, Void, Ominous
+- Teens on the station.
+- Teens exploring restricted areas.
+- Teens find War-aligned cache and discover residents are hiding their support.
+- Teens escape back to unrestricted areas, wary that anyone could War-aligned, a threat to station and home.
+
+## Refuge, Ominous, Void, Innocuous
+- Teens on the station.
+- While exploring, discover War-aligned cache.
+- Discovered, chased into station.
+- Return to station, paranoid
+
+## Reader's journey
+- What is this place? Oh, there's a War.
+- Oh neat, we're on a space station, cozy and neutral. Neutrality brings safety, normalcy, and community.
+- There's more to the space station than I realized.
+- Oh no, neutrality is threatened, Sase is powerless to avoid it.
+
+
+## Command line
+Cound non-heading, non %%-comment words
+> sed '/^.*%/d' content/*  | sed -E '/^#{1,3}/d' | wc -w
