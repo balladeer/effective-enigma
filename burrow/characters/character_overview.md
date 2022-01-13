@@ -9,5 +9,5 @@
 ## Minor Characters
 *Kaysh*: teacher who lets Sase off the hook
 
-*Doiay*: try-hard, obnoxious coworker with Sase at The Angry Ape
+*Doiay*: try-hard, obnoxious coworker with Sase at The Hungry Ape
 

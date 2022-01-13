@@ -9,10 +9,12 @@ Idea: Teens on a neutral space ship. They're hanging out, exploring whatever. Th
 
 ## Story Craft
 
-1. Introduction (Refuge: familiar, safe)
-2. Development (Innocuous: unfamiliar, safe)
-3. Twist (Void: unfamiliar, unsafe)
-2. Reconciliation (Ominous: familiar, unsafe)
+1. Intro: Ominous (Soldiers / Shipyard)
+2. Dev: 
+	- Refuge: community
+	- Innocuous: restricted areas
+3. Twist: Void (Restricted areas + spies)
+4. Reconcile: Ominous (community)
 
 Two teens navigate life on an ancient space station.
 
@@ -105,5 +107,9 @@ Reconcile: 1250
 
 
 ## Command line
-Cound non-heading, non %%-comment words
+Count non-heading, non %%-comment words
 > sed '/^.*%/d' content/*  | sed -E '/^#{1,3}/d' | wc -w
+
+Count everything in folder
+
+wc -w **/*.md

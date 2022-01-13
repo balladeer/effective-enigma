@@ -1,4 +1,12 @@
-# Sase (Teen 1)
+# Sase
+
+## At a glance
+- hoverboarder, growing interest in bioprogramming
+- inwards looking: normalcy is neutrality, the Burrow, bioluminescent everything
+
+- mottled orange
+- molting scales, covered by clothes
+- gray eyes
 
 What have the adults failed to teach you?
 Is your voice heard? And when is it listened to?
@@ -11,7 +19,7 @@ I'm Kihǔ, and when you first see me you'll probably notice my imposing size (fo
 
 I wear a brand-name shirt, torn pants, and always carry my heavily-stickered hoverboard.
 
-As much of a pain it is to go to school, I'm always excited to learn about microbioprogramming but hate station civics, even though I wish I could just be practicing tricks. After school, you can usually find me hanging out with my friends exploring restricted sections or at my part time job as a cashier at The Angry Ape.
+As much of a pain it is to go to school, I'm always excited to learn about microbioprogramming but hate station civics, even though I wish I could just be practicing tricks. After school, you can usually find me hanging out with my friends exploring restricted sections or at my part time job as a cashier at The Hungry Ape.
 
 I consider myself brilliant and confident, but all the adults tell me to be more respectable.
 

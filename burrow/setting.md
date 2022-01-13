@@ -38,13 +38,19 @@ Rowdy soldiers from both sides of the war have taken shore leave here
 - Stellar designation: Issi-4
 
 ## Map
+- The Shipyard
+	+ Near the surface of the Burrow
+	+ Primary interface between the Void and the station dwellers.
+	+ The Cafeteria
+		* A lot of visiting soldiers on shore-leave are here
+		* Hungry Ape
+			- where Sase and Doiay work
+- The Community
+	+ (Start: Refuge)
+	+ (End: Ominous)
+- Restricted Areas
 
-## Minor Characters
-- name (they/them), short description, ROAARS
 
-------------------------------------------------------------------------------
-------------------------------------------------------------------------------
-------------------------------------------------------------------------------
 
 # Aspects
 
