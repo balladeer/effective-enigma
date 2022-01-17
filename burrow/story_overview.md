@@ -6,6 +6,7 @@
 %% Dynamite Proactive
 
 ## Scene Goal
+Goal: leave Shipyard.
 Sase finishes a shift at the Hungry Ape.
 His goal is to be comfortable. Normal is hanging out w/ Ágdá. He wants to feel normal.
 
@@ -24,14 +25,16 @@ In a big cafeteria near the shipyards
 
 - When a small scuffle starts among some soldiers, he convinces Doiay to take the counter, then sneaks out the back.
 	- scuffle, like the War, isn't Sase's problem
+
 ----
 
 # 02. Development
 %% Kishōtenketsu
 ## Introduction
+Goal: Find Ágdá
 Sase looks for Agda. He leaves the shipyard, anxious to get back to the darker, rockier, goopier interior of the Burrow.
 
-Adena (Abena?) prevents Sase's access for a few minutes, not recognizing his handprint for a few attempts.
+Adena (Abena?) prevents Sase's access for a few minutes, not recognizing his handprint for a few attempts. He has to reach high up because Kihǔ are half the height of the humans that presumably built this place.
 
 Bioluminescent lights offer a diffuse glow. Metal grates, rusted yet stable, interrupt narrow hallways carved through rough stone.
 
@@ -45,28 +48,76 @@ He passes the school, a converted warehouse/laboratory, where Kaysh, Sase's micr
 He crosses through the community gardens: sources of nutrients and flavors beyond the nutrient goop that the station grows. Some visitors think the goops are novel delicacies, but to Sase, they are just the common, boring food.
 
 ## Twist
-He meets Ágdá 
+He meets Ágdá.
+Goal: find a place to spend time with Ágdá - she paints, he boards.
+
+They pass into a restricted zone (reader: oh no!)...
 
 ## Reconciliation
-Sase returns to the community gardens. No one is following him. He looks for a while, but does not find Ágdá. He sees War behind the eyes of everyone he meets.
+but it is clear they do this regularly: Sase to hang out and board, Ágdá to tag or explore.
 
-Sase returns to the Shipyard and sits in a corner of the cafeteria. He stays there, watching soldiers. At least here, the War is obvious.
+They discuss teenage issues:
+- They both have an obnoxious co-worker
+- They like and dislike subjects at school
+- Ágdá wants to build, make, do, while Sase wants to be.
+- Sase might have feelings for Ágdá, but Ágdá has a crush on Hyok.
+
 ----
 
 # 03. Twist
 %% Dynamite Proactive
 ## Scene Goal
+They discover some moved debris, recognizing it because they spend time exploring these forbidden halls.
+
+(Mini-reactive)
+- Reaction: worry -- something's down here?
+- Dillema: leave, follow, or explore elsewhere?
+	+ station drones would have cleaned -- it's something else
+	+ leave -- whoever it is might catch us (so what -- they shouldn't be here either)
+	+ explore elsewhere? (most of the station is boring -- take opportunities when you can)
+	+ explore (Sase gets to stay with Ágdá)
+
+New goal: who or what moved the debris?
+
 
 ## Crucible
+Following the trail, they discover a locked door, but use their small size to squeeze through vents into the room beyond. There they find a cache of supplies and signs. 
 
-## Setback (or Victory)
+## Setback
+They don't know which side of the War this belongs to, but it is clearly one of them.
+
+TODO: what happens? does someone arrive (Teacher, perhaps?) Does an alarm go off?
+
+%% What are they planning to use the station for?
+- take over the station from the inside
+- prepare the station for a hostile attack
+- smuggle weapons to the War
+- smuggle people to the War
+- produce chemicals, food, supplies (using the goop?) for the War
+- spy on the station and its visitors, sending information to the War
+- convince / convert Adena to their side of the War
+
+Which feels like the strongest attack on the station's neutrality?
+- hostile takeover
+
+Looking for an option that most aligns with a 'loss of innocence' 
+"They figured out how to get past Adena! We need to warn--"
+"Sase, wait! Wait. What if Adena let them through? What if all this was created by--"
+"--Burrowers"
 
 ----
 
 # Reconciliation
 %% Dynamite Reactive
-## Reaction
 
-## Dillema
+Sase returns to the community gardens. No one is following him.
 
-## Decision
+React: scared, worried
+Dilemma: go back?
+Decision: look for Ágdá in community
+
+NEW GOAL: find the familiar, the normal
+He looks for a while, but does not find Ágdá. He sees War behind the eyes of everyone he meets.
+
+Sase returns to the Shipyard and sits in a corner of the cafeteria. He stays there, watching soldiers. At least here, the War is obvious.
+

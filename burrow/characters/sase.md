@@ -25,6 +25,8 @@ I consider myself brilliant and confident, but all the adults tell me to be more
 
 When can I just be myself?
 
+I don't know it yet, but I'm on my way to becoming a Wrench -- a pragmratic individual who cares for the station, in all its idiosynchracies.
+
 ### Connections
 * What lie did Ágdá tell me that I know is untrue?
 

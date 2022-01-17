@@ -15,6 +15,8 @@ I consider myself insightful and persistent, but all the adults tell me to be mo
 
 When can I just be myself?
 
+I don't know it yet, but I'm on my way to becoming a Signal -- a passtionate, agenda-driven individual who works hard to create political change aboard the station.
+
 ### Connections
 What lie did Sase tell me that I know is untrue?
 
