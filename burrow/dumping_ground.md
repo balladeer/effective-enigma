@@ -4,7 +4,6 @@ A place for snippets of text I'm not ready to delete.
 
 ```
 We want:
-
     DARK, FUTURISTIC STORIES
     CYBERPUNK
     LITERARY SCIFI
@@ -40,3 +39,43 @@ Teens doing something (future drugs / consumption) that the robots should ignore
     + Sase could use biomicroprogramming knowledge to at least realize the stuff getting made is dangerous
 - equipment - receivers, antennae
     + make it obvious that recordings are being made and stored here
+    
+
+# Early ideas
+Idea: Teens on a neutral space ship. They're hanging out, exploring whatever. They come across agents aligned to The War and, after being discovered, escape into the deeper parts of the space station. (Where they discover great and terrible self-defense / self-destruct mechanisms). They return to the space station proper, worried that they'll be recognized, suspicious that any person they see could be bringing the War closer.
+(Orbital RPG)
+
+## Story Craft
+
+1. Intro: Ominous (Soldiers / Shipyard)
+2. Dev: 
+    - Refuge: community
+    - Innocuous: restricted areas
+3. Twist: Void (Restricted areas + spies)
+4. Reconcile: Ominous (community)
+
+Two teens navigate life on an ancient space station.
+
+Exploring the restricted sectors provides an escape from the mass of visiting soldiers.
+
+(Twist)?
+- chase the painted signs of the spies thinking they are a 'geocache'-like puzzle left by earlier inhabitants
+- they find a stash / hidden cache of spy-related stuff -- run (but don't see) one of the spies
+
+The soldiers, with their bright colors and loud words, are not the only vector for the War to infect the Burrow.
+
+
+
+# Brainstorm a few structures
+
+## Refuge, Innocuous, Void, Ominous
+- Teens on the station.
+- Teens exploring restricted areas.
+- Teens find War-aligned cache and discover residents are hiding their support.
+- Teens escape back to unrestricted areas, wary that anyone could War-aligned, a threat to station and home.
+
+## Refuge, Ominous, Void, Innocuous
+- Teens on the station.
+- While exploring, discover War-aligned cache.
+- Discovered, chased into station.
+- Return to station, paranoid

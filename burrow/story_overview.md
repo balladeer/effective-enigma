@@ -1,5 +1,5 @@
 # Story overview
-
+_OneSentence_: An alien teenager learns that the space station he lives on is not safe from the machinations of the War that looms constant over the galaxy.
 ----
 
 # 01. Introduction 
@@ -8,16 +8,14 @@
 _OneSentence_: Sase finishes a shift at his new job while the reader learns about the War and this station's brittle neutrality.
 
 ## Scene Goal
-*Goal*: leave Shipyard, find comfort.
-Sase finishes a shift at the Hungry Ape -- he doesn't have to go to detention.
-His goal is to be comfortable. Normal is hanging out w/ Ágdá. He wants to feel normal.
+*Goal*: escape the discomfort of the Shipyard
 
-In a big cafeteria near the shipyards
+Sase finishes a shift at the Hungry Ape. His goal is to be comfortable: normal is hanging out w/ Ágdá. 
 
 ## Crucible
-- He dislikes being so near all of the visiting soldiers: they wear bright clothing, speak loudly, and carry themselves with energy.
-- This was supposed to be a slow shift, but he didn't know so many soldiers were 
-- He dislikes the harsh electric lights they use here in the shipyard (preferring the bioluminescence of his home deeper in)
+- He dislikes being so near all of the visiting soldiers: they wear bright clothing, speak loudly, and carry themselves with energy beyond his comfort.
+- This was supposed to be a slow shift, but he didn't know so many soldiers had arrived
+- He dislikes the harsh electric lights they use here in the shipyard (preferring the bioluminescence of his home inside the moon-mined rock)
 - His voice is not heard:
 	+ Regular customers don't listen to him, much less Soldiers
 	+ Doiay treats Sase's worries as laziness

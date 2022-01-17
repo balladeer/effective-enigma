@@ -1,4 +1,4 @@
-## The Teen (2)
+## The Teen
 What have the adults failed to teach you?
 Is your voice heard? And when is it listened to?
 How will your growing powers shape you?
