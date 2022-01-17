@@ -6,7 +6,7 @@
 - Humans
 	+ not uncommon in the Burrow
 	+ primary species on both sides of the war: the Union and the Republic
-
+- (Fill in as needed)
 
 # The Station
 Starting truth for the station:
@@ -24,8 +24,9 @@ Starting truth for the station:
 - Metal grating
 - Hexagonal blastdoors
 
-#### Rough shape and scale
-An approximate cylinder, half the size of Luna. Termites in a broken moon.
+### Rough shape and scale
+Termites in a broken moon.
+An approximate cylinder, half the size of Luna.
 
 ### Things we Found
 - Defunct corporate branding
