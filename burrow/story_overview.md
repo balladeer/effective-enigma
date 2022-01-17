@@ -61,8 +61,8 @@ They discuss teenage issues:
 - They like and dislike subjects at school
 - Ágdá wants to build, make, do, while Sase wants to be.
 - Sase might have feelings for Ágdá, but Ágdá has a crush on Hyok.
-
-----
+-
+---
 
 # 03. Twist
 %% Dynamite Proactive
@@ -89,16 +89,28 @@ They don't know which side of the War this belongs to, but it is clearly one of 
 TODO: what happens? does someone arrive (Teacher, perhaps?) Does an alarm go off?
 
 %% What are they planning to use the station for?
-- take over the station from the inside
-- prepare the station for a hostile attack
-- smuggle weapons to the War
-- smuggle people to the War
 - produce chemicals, food, supplies (using the goop?) for the War
-- spy on the station and its visitors, sending information to the War
 - convince / convert Adena to their side of the War
+- spy on the station and its visitors, sending information to the War
+- take over the station from the inside
+- smuggle people to the War
+- smuggle weapons to the War
+- prepare the station for a hostile attack
 
-Which feels like the strongest attack on the station's neutrality?
-- hostile takeover
+### What evidence could they find?
+- documents
+	+ why would the spies store documents here? Maybe they think it remote / secure enough that they're willing to do admin outside their heads
+	+ maybe they want to avoid being caught with documents on them
+- in-progress manufacturing
+	+ Sase could use biomicroprogramming knowledge to at least realize the stuff getting made is dangerous
+- equipment - receivers, antennae
+	+ make it obvious that recordings are being made and stored here
+- maps, plans, analog stuff
+	+ Make it clear the spies are avoiding Adena by going analog
+		* wouldn't matter unless spies were planning to operate in the Shipyard, where Adena is still in full operation
+	+ Could make the writing illegible, but maps are harder to disguise: teens know that something is going on with the shipyard and Burrow, but can't read what.
+	+ By leaving the maps disturbed (in a rush to avoid getting seen), the teens realize the spies will switch locations, meaning even if their voices were heard, the spies would be gone by the time the teens could get anyone with power back here.
+		* Ágdá can recognize the script of the War, confirms that the authors are deliberately using code on the maps
 
 Looking for an option that most aligns with a 'loss of innocence' 
 "They figured out how to get past Adena! We need to warn--"
@@ -107,7 +119,7 @@ Looking for an option that most aligns with a 'loss of innocence'
 
 ----
 
-# Reconciliation
+# 04. Reconciliation
 %% Dynamite Reactive
 
 Sase returns to the community gardens. No one is following him.
