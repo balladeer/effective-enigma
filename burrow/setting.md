@@ -70,6 +70,8 @@ Their differences
 The systems, mundane and uncanny, keeping us alive.
 
 Assistant's name: ABENA
+(Kihǔ all say 'ADENA')
+
 Directives
 1. Protect that which grows within
 2. Prepare for the return of the makers

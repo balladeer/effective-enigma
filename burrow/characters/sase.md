@@ -7,6 +7,7 @@
 - mottled orange
 - molting scales, covered by clothes
 - gray eyes
+- wears egg-tooth on chain around neck
 
 What have the adults failed to teach you?
 Is your voice heard? And when is it listened to?
@@ -31,8 +32,10 @@ I don't know it yet, but I'm on my way to becoming a Wrench -- a pragmratic indi
 * What lie did Ágdá tell me that I know is untrue?
 	- 
 * Kayse: a teacher who lets me off the hook
-	- teacher of station civics
+	
 * Doiay: my try-hard, obnoxious coworker.
 
 ### Insights
 I was caught at ground zero with my friends.
+
+
