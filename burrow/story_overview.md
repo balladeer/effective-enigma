@@ -69,7 +69,6 @@ They discuss teenage issues:
 ---
 
 # 03. Twist
-%% Kishōtenketsu
 _OneSentence_: The teens discover the office of some spies deep within the Burrow.
 
 They discover some moved debris, recognizing it because they spend time exploring these forbidden halls.
@@ -126,13 +125,16 @@ IDEA: teacher lets Sase out of detention early. Reader's realize it is because t
 # 04. Reconciliation
 %% Dynamite Reactive
 
-_OneSentence_: Sase, sensing a growing paranoia within himself, heads to the Shipyard, prefering known danger to unknown danger.
+_OneSentence_: Back in their Community, the teens part ways and Sase, sensing a growing paranoia within himself, heads to the Shipyard, prefering known danger to unknown danger.
 
 Sase returns to the community gardens. No one is following him.
 
 React: scared, worried
-Dilemma: go back?
-Decision: look for Ágdá in community
+Dilemma:
+	- go look for the spies' trail?
+	- go find Kaysh?
+	- tell Adena
+Decision: Ágdá heads to work; Sase heads to cafeteria.
 
 *New Goal*: find the familiar, the normal
 He looks for a while, but does not find Ágdá. He sees War behind the eyes of everyone he meets.

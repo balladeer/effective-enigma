@@ -7,8 +7,8 @@ The goal of this project is to write a short story to submit to [The Dread Machi
 Film Rating: PG-13
 
 # Meta-story plan
-## Voice - 1st person, past tense
-A single change from my novel (3rd person limited, past tense)
+## Voice
+I will use *1st person, past tense*, as it is a single change from my novel (3rd person limited, past tense).
 
 ## Rough word counts
 No more than 5k words, 1250 per section.
@@ -26,7 +26,7 @@ No more than 5k words, 1250 per section.
 
 ## Command line
 Count non-heading, non %%-comment words
-> sed '/^.*%/d' content/*  | sed -E '/^#{1,3}/d' | wc -w
+> sed '/^.*%/d' content/**/*.md  |  pandoc -t markdown --strip-comments | sed -E '/^#{1,3}/d' | sed '/^$/N;/^\n$/D' | wc -w
 
 Count everything in folder
 > wc -w **/*.md

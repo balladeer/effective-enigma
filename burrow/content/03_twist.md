@@ -1,5 +1,6 @@
 # Twist
 %% Dynamite Proactive
+
 ## Scene Goal
 
 ## Crucible
