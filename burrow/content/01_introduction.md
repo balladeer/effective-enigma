@@ -18,7 +18,6 @@ I just wanted to finish this shift and get back inside the Burrow, away from her
 ## Crucible
 Many would-be customers passed by, glancing at the food on display just long enough to decide that their hunger needed another cuisine. If Doiay were not so busy in the back, she would tell me to invite the passers-by over, offer them a sample, catch their interest and turn it into a sale.
 
-
 Another dark blue-coat approached the stall. His tawny skin was not dissimilar to my own, though his hairy skin lacked the deep orange of my back scales. I put on a smile and kicked my stool over to the serving counter.
 
 "Welcome to the Hungry Human, what can I get you?"
@@ -79,7 +78,7 @@ I froze.
 
 A shouted gasp rose above the crowd.
 
-"What was that?!" Anger.
+"What was that?!"
 
 "I'm gonna knock you out!"
 
@@ -91,11 +90,11 @@ _Their war is not my war. This fight is not my fight._
 
 My supervisor arrived, throwing off a pair of gloves as she did.
 
-"Hey! Hey!" She banged on the counter, trying to command the attention of the group as I backed away from the commotion and the crowd and the harsh lighting, retreating into the back half of the stall.
+"Hey! Hey!" She banged on the counter, trying to command the attention of the group as I backed away from the commotion and the crowd, the high volume and the harsh lighting, retreating into the back half of the stall.
 
 ## Victory
-My replacement, a Kihǔ like me, had not arrived yet, but I was not planning to stick around.
+My replacement, a Kihǔ like me, had not arrived yet, but I did not intend to stick around.
 
-I grabbed my board and pack from the employee shelf. Doiay yelled 'Security!' as I slipped out.
+I grabbed my board and pack from the employee shelf, changing out of my uniform and into a more comfortable jacket as I walked. Behind me, Doiay yelled 'Security!' as I slipped out.
 
 My shift would be over before she noticed I was gone.
