@@ -58,7 +58,7 @@ Rowdy soldiers from both sides of the war have taken shore leave here
 	+ Primary interface between the Void and the station dwellers.
 	+ The Cafeteria
 		* A lot of visiting soldiers on shore-leave are here
-		* Hungry Ape
+		* Hungry Human
 			- where Sase and Doiay work
 - The Community - Storage Tanks 4-7
 	+ Aesthetics

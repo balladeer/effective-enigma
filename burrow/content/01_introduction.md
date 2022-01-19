@@ -21,7 +21,7 @@ Many would-be customers passed by, glancing at the food on display just long eno
 
 Another blue-coat approached the stall. His tawny skin was not dissimilar to my own, though his hairy skin lacked the deep orange of my back scales. I put on a smile and kicked my stool over to the serving counter.
 
-"Welcome to the Hungry Ape, what can I get you?"
+"Welcome to the Hungry Human, what can I get you?"
 
 With the stool, I could reach all the food, though the man rose a good two heads taller than me.
 
@@ -35,12 +35,16 @@ The man fished out some coins while I made his bowl. I fed them to the pay machi
 
 He carried his meal over to the goop--six bowls of Burrow-made nutrient pastes--and begin spooning a spoonful of each onto the side of his bowl. Next to neutrality, the Burrow's best known for its extensive microbe-farms.
 
-"_Sase_, you're supposed to say 'Welcome to the Hungry Ape. Come hungry, leave human'."
+"_Sase_, you're supposed to say 'Welcome to the Hungry Human. Come hungry, leave human'."
 
-I finished marking transaction into the computer, using the time to steel myself, then stepped off my stool and turned toward my supervisor. Doiay and I were in the same grade, but like most humans, she was almost twice my height and had black hair. Hers was quite long, though she kept it wrapped up in a twist under her food net. 
+I finished marking transaction into the computer, using the time to steel myself, then stepped off my stool and turned toward my supervisor. Doiay and I were in the same grade, but like most humans, she was almost twice my height and had black hair. Hers reached past her shoulders, though she kept it wrapped up in a twist under her food net. 
 
-Hair for her, scales for me: no one liked eating bits of the person who just served you.
+Hair for her, scales for me: no one likes eating bits of the person who just served you.
 
-"I know, I know," I said, shaking my head, "I just..."
+"I know, I know," I said, shaking my head, "I just...why bother, you know? No one comes here for the service."
+
+"Everyone comes here for the service."
+
+
 
 ## Victory

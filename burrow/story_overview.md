@@ -11,7 +11,7 @@ _OneSentence_: Sase finishes a shift at his new job while the reader learns abou
 ## Scene Goal
 *Goal*: escape the discomfort of the Shipyard
 
-Sase finishes a shift at the Hungry Ape, anxious to use his detention-free evening hanging out w/ Ágdá, to him, the epitome of normalcy.
+Sase finishes a shift at the Hungry Human, anxious to use his detention-free evening hanging out w/ Ágdá, to him, the epitome of normalcy.
 
 ## Crucible
 - He dislikes being so near all of the visiting soldiers: they wear bright clothing, speak loudly, and carry themselves with energy beyond his comfort.
