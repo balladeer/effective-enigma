@@ -3,9 +3,9 @@
 ## Scene Goal
 "Welcome to station ISSI-4. Please enjoy our peace in peace."
 
-The intercom's clawingly clear tones echoed off the ceramic-steel of the cafeteria's walls and ceiling before absorbing into the mass of blue-hued clothing arrayed out in front of me, visitors to my home, customers for my boss. Soldiers.
+The intercom's clawingly clear tones echoed off the ceramic-steel of the cafeteria's walls and ceiling before absorbing into the mass of blue-hued clothing arrayed out in front of me, visitors to my home, customers for my boss. Soldiers. #TODO-defunct-corporate-branding
 
-I sat in the corner of the stall, next to the refrigerator and below the racks of human-sized cutlery. The lights--bright, white, and _electric_--dimmed just enough to dull their edge.
+I sat in the corner of the stall, next to the refrigerator and below the racks of human-sized cutlery, #TODO-doing-what. The lights--bright, white, and _electric_--dimmed just enough to dull their edge.
 
 I rubbed my left sleeve with my other hand, the pressure and friction providing a shot of relief for the molting scales underneath. For the first time since starting here, I was glad that the station's health code allowed long-sleeved uniforms.
 
@@ -43,7 +43,25 @@ Hair for her, scales for me: no one likes eating bits of the person who just ser
 
 "I know, I know," I said, shaking my head, "I just...why bother, you know? No one comes here for the service."
 
-"Everyone comes here for the service."
+"Everyone comes here for the service." 
+
+The finality in her words itched like molting scales. I turned away rather than keep looking up, hooking my right foot around the leg of my stool and sliding it over toward the stoves.
+
+As I stirred and tossed a vat of simmering, Doiay checked the counter's food trays. The lunch rush we'd survived sat at their tables, enjoying (or not enjoying) their food, while we--like the employees of every other stall in the cafeteria--cleaned up, took stock, and prepared for the next meal.
+
+I again took up my spot near the front counter and waited for more customers. Staring out, my eyes softened, and my thoughts drifted towards my evening. My shift ended before dinner, and with Teacher Kaysh letting me skip detention, I was free all night. I smiled, thinking about wandering the gardens, getting away from the harsh, dry air of the Shipyard, finding--
+
+"Excuse me, hello?"
+
+My gazed sharpened. Another customer. Another human.
+
+"Oh sorry, uh, what can I--"
+
+Doiay grunted from the kitchen behind me. I paused, refreshed my fake smile, and tried again.
+
+"Hi, welcome to the Hungry Human. Come hungry, leave human. What can I get for you?"
+
+
 
 
 

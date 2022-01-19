@@ -60,6 +60,10 @@ Rowdy soldiers from both sides of the war have taken shore leave here
 		* A lot of visiting soldiers on shore-leave are here
 		* Hungry Human
 			- where Sase and Doiay work
+			- serves noodles and rice
+			- synth-protein or insects
+			- goop bar (microbes, a la algae)
+			- 
 - The Community - Storage Tanks 4-7
 	+ Aesthetics
 		* Dim, bioluminescent lights
