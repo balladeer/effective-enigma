@@ -19,11 +19,11 @@ I just wanted to finish this shift and get back inside the Burrow, away from her
 Many would-be customers passed by, glancing at the food on display just long enough to decide that their hunger needed another cuisine. If Doiay were not so busy in the back, she would tell me to invite the passers-by over, offer them a sample, catch their interest and turn it into a sale.
 
 
-Another blue-coat approached the stall. His tawny skin was not dissimilar to my own, though his hairy skin lacked the deep orange of my back scales. I put on a smile and kicked my stool over to the serving counter.
+Another dark blue-coat approached the stall. His tawny skin was not dissimilar to my own, though his hairy skin lacked the deep orange of my back scales. I put on a smile and kicked my stool over to the serving counter.
 
 "Welcome to the Hungry Human, what can I get you?"
 
-With the stool, I could reach all the food, though the man rose a good two heads taller than me.
+With the stool, I could reach all the food, though the man still rose a good two heads taller than me.
 
 "You have anything with rice or bread?"
 
@@ -33,23 +33,25 @@ _What else would this stall serve?_
 
 The man fished out some coins while I made his bowl. I fed them to the pay machine; when it failed to spit them back out, I handed over the food.
 
-He carried his meal over to the goop--six bowls of Burrow-made nutrient pastes--and begin spooning a spoonful of each onto the side of his bowl. Next to neutrality, the Burrow's best known for its extensive microbe-farms.
+He carried his meal over to the goop bar--six bowls of Burrow-made nutrient pastes--and begin spooning a dabs of each onto the side of his bowl. Next to neutrality, the Burrow's best known for its extensive microbe-farms.
 
-"_Sase_, you're supposed to say 'Welcome to the Hungry Human. Come hungry, leave human'."
+"_Sase_, you're supposed greet our customers with the motto."
 
-I finished marking transaction into the computer, using the time to steel myself, then stepped off my stool and turned toward my supervisor. Doiay and I were in the same grade, but like most humans, she was almost twice my height and had black hair. Hers reached past her shoulders, though she kept it wrapped up in a twist under her food net. 
+I finished marking transaction into the computer, using the time to steel myself, then stepped off my stool and turned toward my supervisor. Doiay and I were in the same grade, but like most humans, she was almost twice my height and had black hair. Hers reached past her shoulders, though she kept it wrapped up in a twist under her food net.
 
 Hair for her, scales for me: no one likes eating bits of the person who just served you.
 
 "I know, I know," I said, shaking my head, "I just...why bother, you know? No one comes here for the service."
 
-"Everyone comes here for the service." 
+"Everyone comes here for the service."
 
 The finality in her words itched like molting scales. I turned away rather than keep looking up, hooking my right foot around the leg of my stool and sliding it over toward the stoves.
 
-As I stirred and tossed a vat of simmering, Doiay checked the counter's food trays. The lunch rush we'd survived sat at their tables, enjoying (or not enjoying) their food, while we--like the employees of every other stall in the cafeteria--cleaned up, took stock, and prepared for the next meal.
+"I'll do better on the next one."
 
-I again took up my spot near the front counter and waited for more customers. Staring out, my eyes softened, and my thoughts drifted towards my evening. My shift ended before dinner, and with Teacher Kaysh letting me skip detention, I was free all night. I smiled, thinking about wandering the gardens, getting away from the harsh, dry air of the Shipyard, finding--
+As I stirred and tossed a vat of simmering pasta, Doiay checked the counter's food trays. The lunch rush we'd survived sat at their tables, enjoying (or not enjoying) their food, while we--like the employees of every other stall in the cafeteria--cleaned up, took stock, and prepared for the next meal.
+
+I again took up my spot near the front counter and waited for more customers. Staring out, my eyes softened, and my thoughts drifted towards the upcoming evening. My shift ended before dinner, and with Teacher Kaysh letting me skip detention, I was free all night. I smiled, thinking about wandering the gardens, getting away from the harsh, dry air of the Shipyard, finding--
 
 "Excuse me, hello?"
 
@@ -61,8 +63,39 @@ Doiay grunted from the kitchen behind me. I paused, refreshed my fake smile, and
 
 "Hi, welcome to the Hungry Human. Come hungry, leave human. What can I get for you?"
 
+----
 
+An hour later, the next meal rush started much earlier than usual. We'd refreshed the food trays, refilled the goop bar, chopped up another protein block, washed less than half of the dishes, and wiped down the customer-facing surfaces. Rolling waves of blue hid the unaffiliated customers, leaving little room among the tables and chairs for the station's more typical visitors.
 
+The soldiers self-selected into food stalls. Through a process I did not understand, The Hungry Human had a line of light-blue humans waiting to put in their order.
 
+I gave up on the cheesy greeting; there were too many people to serve. Doiay kept the kitchen running while I served customer after customer, all the while eyeing the clock. My shift ended soon.
+
+"More spaghetti," I yelled over my shoulder. "Green sauce, too!" The loud chatter of many hundred eaters, combined with the noise of dishes clanging, steam rising, and oil sizzling, made shouting neccesary.
+
+Moments after handing a bowl of noodles to a soldier, before I had managed to reposition back to the next customer, a loud *thump* and a chirping creak of cracked-but-not-shattered glass startled me. A spray of goop and noodles covered the safety glass separating the food tray from the customers, centered on a web-like ring of cracks.
+
+I froze.
+
+A shouted gasp rose above the crowd.
+
+"What was that?!" Anger.
+
+"I'm gonna knock you out!"
+
+Shouts begat shouts. A half-circle of humans formed around my pay machine, gawking and jeering at a pair of bulky males, their arms raised and fists clenched.
+
+"Doiay! Need you up front!"
+
+_Their war is not my war. This fight is not my fight._
+
+My supervisor arrived, throwing off a pair of gloves as she did.
+
+"Hey! Hey!" She banged on the counter, trying to command the attention of the group as I backed away from the commotion and the crowd and the harsh lighting, retreating into the back half of the stall.
 
 ## Victory
+My replacement, a Kihǔ like me, had not arrived yet, but I was not planning to stick around.
+
+I grabbed my board and pack from the employee shelf. Doiay yelled 'Security!' as I slipped out.
+
+My shift would be over before she noticed I was gone.

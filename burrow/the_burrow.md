@@ -26,7 +26,10 @@ No more than 5k words, 1250 per section.
 
 ## Command line
 Count non-heading, non %%-comment words
-> sed '/^.*%/d' content/**/*.md  |  pandoc -t markdown --strip-comments | sed -E '/^#{1,3}/d' | sed '/^$/N;/^\n$/D' | wc -w
+> sed '/^.*%/d' content/**/*.md | pandoc -t markdown --strip-comments | sed -E '/^#{1,3}/d' | sed '/^$/N;/^\n$/D' | wc -w
+
+Individual file lengths
+> sed '/^.*%/d' content/01_introduction.md | pandoc -t markdown --strip-comments | sed -E '/^#{1,3}/d' | sed '/^$/N;/^\n$/D' | wc -w
 
 Count everything in folder
 > wc -w **/*.md
