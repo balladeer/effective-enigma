@@ -39,7 +39,7 @@ Teens doing something (future drugs / consumption) that the robots should ignore
     + Sase could use biomicroprogramming knowledge to at least realize the stuff getting made is dangerous
 - equipment - receivers, antennae
     + make it obvious that recordings are being made and stored here
-    
+
 
 # Early ideas
 Idea: Teens on a neutral space ship. They're hanging out, exploring whatever. They come across agents aligned to The War and, after being discovered, escape into the deeper parts of the space station. (Where they discover great and terrible self-defense / self-destruct mechanisms). They return to the space station proper, worried that they'll be recognized, suspicious that any person they see could be bringing the War closer.
