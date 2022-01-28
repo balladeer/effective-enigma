@@ -1,6 +1,6 @@
 # Dumping ground
-A place for snippets of text I'm not ready to delete.
 
+A place for snippets of text I'm not ready to delete.
 
 ```
 We want:
@@ -21,7 +21,8 @@ Teens running from robotic dogs. Hiding under an overpass or LA River canals. On
 Teens doing something (future drugs / consumption) that the robots should ignore (show familiarity, demonstrate a reader-strange normalcy from characters). Character brings something unexpected to the group, which increased perceived danger.
 
 ## Dump from 'story overview'
-%% What are they planning to use the station for?
+
+What are they planning to use the station for?
 - produce chemicals, food, supplies (using the goop?) for the War
 - convince / convert Adena to their side of the War
 - spy on the station and its visitors, sending information to the War
@@ -30,8 +31,8 @@ Teens doing something (future drugs / consumption) that the robots should ignore
 - smuggle weapons to the War
 - prepare the station for a hostile attack
 
-
 ### What evidence could they find?
+
 - documents
     + why would the spies store documents here? Maybe they think it remote / secure enough that they're willing to do admin outside their heads
     + maybe they want to avoid being caught with documents on them
@@ -40,15 +41,15 @@ Teens doing something (future drugs / consumption) that the robots should ignore
 - equipment - receivers, antennae
     + make it obvious that recordings are being made and stored here
 
+## Early ideas
 
-# Early ideas
 Idea: Teens on a neutral space ship. They're hanging out, exploring whatever. They come across agents aligned to The War and, after being discovered, escape into the deeper parts of the space station. (Where they discover great and terrible self-defense / self-destruct mechanisms). They return to the space station proper, worried that they'll be recognized, suspicious that any person they see could be bringing the War closer.
 (Orbital RPG)
 
 ## Story Craft
 
 1. Intro: Ominous (Soldiers / Shipyard)
-2. Dev: 
+2. Dev:
     - Refuge: community
     - Innocuous: restricted areas
 3. Twist: Void (Restricted areas + spies)
@@ -64,17 +65,17 @@ Exploring the restricted sectors provides an escape from the mass of visiting so
 
 The soldiers, with their bright colors and loud words, are not the only vector for the War to infect the Burrow.
 
-
-
-# Brainstorm a few structures
+## Brainstorm a few structures
 
 ## Refuge, Innocuous, Void, Ominous
+
 - Teens on the station.
 - Teens exploring restricted areas.
 - Teens find War-aligned cache and discover residents are hiding their support.
 - Teens escape back to unrestricted areas, wary that anyone could War-aligned, a threat to station and home.
 
 ## Refuge, Ominous, Void, Innocuous
+
 - Teens on the station.
 - While exploring, discover War-aligned cache.
 - Discovered, chased into station.

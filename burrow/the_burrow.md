@@ -7,10 +7,13 @@ The goal of this project is to write a short story to submit to [The Dread Machi
 Film Rating: PG-13
 
 # Meta-story plan
+
 ## Voice
+
 I will use *1st person, past tense*, as it is a single change from my novel (3rd person limited, past tense).
 
 ## Rough word counts
+
 No more than 5k words, 1250 per section.
 
 - Intro: 1250
@@ -19,40 +22,51 @@ No more than 5k words, 1250 per section.
 - Reconcile: 1250
 
 ## Reader's journey
+
 - What is this place? Oh, there's a War.
 - Oh neat, we're on a space station, cozy and neutral. Neutrality brings safety, normalcy, and community.
 - There's more to the space station than I realized.
 - Oh no, spies! Neutrality is threatened, Sase feels powerless to protect it.
 
 ## Command line
+
 Count non-heading, non %%-comment words
 > sed '/^.*%/d' content/**/*.md | pandoc -t markdown --strip-comments | sed -E '/^#{1,3}/d' | sed '/^$/N;/^\n$/D' | wc -w
 
-Individual file lengths
-> sed '/^.*%/d' content/01_introduction.md | pandoc -t markdown --strip-comments | sed -E '/^#{1,3}/d' | sed '/^$/N;/^\n$/D' | wc -w
+Individual file lengths:
+    
+    sed '/^.*%/d' content/01_introduction.md | pandoc -t markdown --strip-comments | sed -E '/^#{1,3}/d' | sed '/^$/N;/^\n$/D' | wc -w
 
-Count everything in folder
-> wc -w **/*.md
+Count everything in folder:
+    
+    wc -w **/*.md
 
 # Scene Templates
------------------------
-%% Dynamite Proactive
+
+****
+
+<!-- Dynamite Proactive -->
+
 ## Scene Goal
 
 ## Crucible
 
 ## Setback (or Victory)
 
------------------------
-%% Dynamite Reactive
+****
+
+<!-- Dynamite Reactive -->
+
 ## Reaction
 
 ## Dillema
 
 ## Decision
 
------------------------
-%% Kishōtenketsu
+****
+
+<!-- Kishōtenketsu -->
+
 ## Introduction
 
 ## Development
@@ -61,4 +75,4 @@ Count everything in folder
 
 ## Reconciliation
 
------------------------
+****

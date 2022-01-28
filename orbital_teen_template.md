@@ -1,10 +1,11 @@
 ## The Teen
+
 What have the adults failed to teach you?
 Is your voice heard? And when is it listened to?
 How will your growing powers shape you?
 
-
 ### Character Profile
+
 My name is |name| (he/him).
 
 I'm |species|, and when you first see me you'll probably notice my |look|, |look|, and |look|.

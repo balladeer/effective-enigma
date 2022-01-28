@@ -1,6 +1,9 @@
 # 01. Introduction
-%% Dynamite  Proactice
+
+%% Dynamite Proactive
+
 ## Scene Goal
+
 "Welcome to station ISSI-4. Please enjoy our peace in peace."
 
 The intercom's clawingly clear tones echoed off the ceramic-steel of the cafeteria's walls and ceiling before absorbing into the mass of blue-hued clothing arrayed out in front of me, visitors to my home, customers for my boss. Soldiers. #TODO-defunct-corporate-branding
@@ -16,6 +19,7 @@ A typical day would see a few dozen people eating during this hour, but now the 
 I just wanted to finish this shift and get back inside the Burrow, away from here.
 
 ## Crucible
+
 Many would-be customers passed by, glancing at the food on display just long enough to decide that their hunger needed another cuisine. If Doiay were not so busy in the back, she would tell me to invite the passers-by over, offer them a sample, catch their interest and turn it into a sale.
 
 Another dark blue-coat approached the stall. His tawny skin was not dissimilar to my own, though his hairy skin lacked the deep orange of my back scales. I put on a smile and kicked my stool over to the serving counter.
@@ -62,7 +66,7 @@ Doiay grunted from the kitchen behind me. I paused, refreshed my fake smile, and
 
 "Hi, welcome to the Hungry Human. Come hungry, leave human. What can I get for you?"
 
-----
+****
 
 An hour later, the next meal rush started much earlier than usual. We'd refreshed the food trays, refilled the goop bar, chopped up another protein block, washed less than half of the dishes, and wiped down the customer-facing surfaces. Rolling waves of blue hid the unaffiliated customers, leaving little room among the tables and chairs for the station's more typical visitors.
 
@@ -70,7 +74,7 @@ The soldiers self-selected into food stalls. Through a process I did not underst
 
 I gave up on the cheesy greeting; there were too many people to serve. Doiay kept the kitchen running while I served customer after customer, all the while eyeing the clock. My shift ended soon.
 
-"More spaghetti," I yelled over my shoulder. "Green sauce, too!" The loud chatter of many hundred eaters, combined with the noise of dishes clanging, steam rising, and oil sizzling, made shouting neccesary.
+"More spaghetti," I yelled over my shoulder. "Green sauce, too!" The loud chatter of many hundred eaters, combined with the noise of dishes clanging, steam rising, and oil sizzling, made shouting necessary.
 
 Moments after handing a bowl of noodles to a soldier, before I had managed to reposition back to the next customer, a loud *thump* and a chirping creak of cracked-but-not-shattered glass startled me. A spray of goop and noodles covered the safety glass separating the food tray from the customers, centered on a web-like ring of cracks.
 
@@ -86,6 +90,8 @@ Shouts begat shouts. A half-circle of humans formed around my pay machine, gawki
 
 "Doiay! Need you up front!"
 
+I backed away from the table.
+
 _Their war is not my war. This fight is not my fight._
 
 My supervisor arrived, throwing off a pair of gloves as she did.
@@ -93,7 +99,8 @@ My supervisor arrived, throwing off a pair of gloves as she did.
 "Hey! Hey!" She banged on the counter, trying to command the attention of the group as I backed away from the commotion and the crowd, the high volume and the harsh lighting, retreating into the back half of the stall.
 
 ## Victory
-My replacement, a Kihǔ like me, had not arrived yet, but I did not intend to stick around.
+
+My replacement, a Kihǔ like me, had not arrived yet; I did not intend to stick around.
 
 I grabbed my board and pack from the employee shelf, changing out of my uniform and into a more comfortable jacket as I walked. Behind me, Doiay yelled 'Security!' as I slipped out.
 
