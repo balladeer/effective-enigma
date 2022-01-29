@@ -131,7 +131,6 @@ The *outside investor*: Fee-Nix
 1. Make us a tourist destination
 2. Offer conditional safety
 
-
 ## The Scum and Villainy.
 
 The smugglers, gangsters & thieves haunting our station.

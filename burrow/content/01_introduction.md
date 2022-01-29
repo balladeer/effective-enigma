@@ -143,7 +143,8 @@ My supervisor arrived, throwing off a pair of gloves as she did.
 
 My replacement, a Kihǔ like me, had not arrived yet; I did not intend to stick around.
 
-I grabbed my board and pack from the employee shelf, changing out of my uniform and into a more comfortable jacket as I walked.
+I grabbed my board and pack from the employee shelf, changing out of my uniform and into a more comfortable jacket as I walked. From my jacket pocket, I fetched my necklace: a length of waxed synth-fiber with my egg-tooth attached to the middle.
+
 Behind me, Doiay yelled 'Security!' as I slipped out.
 
 My shift would be over before she noticed I was gone.

@@ -1,10 +1,11 @@
 # Major Characters
+
 *Sase*: hoverboarder, mottled orange, molting scales, gray eyes, egg-tooth on chain around his neck
 
 *Ágdá*: tagger, yellow w/ black spots, blue eyes
 
-
 # Minor Characters
+
 *Kaysh*: teacher who lets Sase off the hook
 
 - red-violet scales w/ a creamy white underside.
