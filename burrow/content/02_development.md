@@ -104,7 +104,7 @@ Colors turned to streaks as I followed well-known signs. Two purple squares mark
 I passed by with a wave, grateful that Teacher Kaysh---who was probably grateful to be home now that he had no one to keep in detention---had decided to let me off the hook tonight.
 
 From there, I turned toward "blue square over green circle", a winding path leading down the curved edge of the cave closer to the nadir far below, passing by many homes before depositing travlers at the market nearest my home.
-Shops and stalls selling everything from cloth and stoneware to feather-filled cages, racks of alien cuttlery, and fire-cooked food served to bring our commuities together.
+Shops and stalls selling everything from cloth and stoneware to feather-filled cages, racks of alien cuttlery, and fire-cooked food served to bring our communities together.
 
 <!-- TODO: how does Sase feel during all of this? -->
 
