@@ -23,11 +23,13 @@ That's why I prefer the Burrow.
 Some folks think of it as 'going down' to the Burrow, others 'going over', 'going into', or 'going up'.
 Direction is a funny thing on a space station.
 
-Whatever the directional model, I headed for big hexogonal blastdoors that marked the gate between the Shipyard's shining, branching, void-facing modules and the excavated tunnels and chambers of the Burrow--a wandering moon, carved by the founders to extract materials long long ago, maybe before the War began.
+Whatever the direction, I headed for the big hexogonal blastdoors that marked the gate between the Shipyard's shining, branching, void-facing modules and the excavated tunnels and chambers of the Burrow--a wandering moon, carved by the founders to extract materials long long ago, maybe before the War began.
+<!-- TODO: consistency: rail shuttle from shipyard to moon -->
 
 The artery connected to a larger hallway, the already tall ceiling lifting up several floors above.
 Shops lined the walls on every floor, but these shops were not meant for residents of the station like me.
-They sold trips to far-away systems and fancy drinks in fancy bottles. Flashing lights and fancy signs teased money out of the pockets of visitors.
+They sold trips to far-away systems and fancy drinks in fancy bottles.
+Flashing lights and fancy signs teased money out of the pockets of visitors.
 
 I walked near the outer edge of the hall with other Kihǔ, a convention that kept the faster humans, with their muscle-filled legs as tall as me, near the center of traffic, where they could flow by without disturbing the rest of us.
 
@@ -44,28 +46,33 @@ Ahead of me, the gray metal door slid shut.
 I looked around for the stool that Adena typically provided for us; the hand-print reader was built for taller beings.
 
 I stood up on my hind toes and swiped my right hand at the sensor.
+
 _Unable to read handprint. Please try again._
 
 "Adena, where's the stool?"
 
 From a pair of speakers on either side of the locked door, the station's response arrived, too loud and too bassy, as usual.
 
-"I'm sorry, resident Sase; visiting soldier took it."
+"I'm sorry, resident Sase; a Republic soldier took it."
 
-"Well, can you just let me through, Adena?"
+*Which color was that again?* I looked around for people wearing blue of any hue.
+
+"Well, can you just let me through, Adena," I asked, reaching out to the door with my free hand.
 
 The door flashed red.
 
 "All persons passing through the gate must validate their status."
 
 "Yeah, yeah, I know."
+
 _Stupid station._
 
 I glanced around.
-Seeing no Fee-Nix security near, I dropped by board to the ground.
+Seeing no Fee-Nix security nearby, and hearing the agitation of those waiting behind me, I dropped my board to the ground.
 It activated mid-fall, a subtle red glow lit the ground as it hovered up a few inches, never making contact with the tile floor.
 
-I hopped on and, with a full body stretch upward, managed to plant my hand on the waiting sensor, holding it there long enough to hear the lock disengage. The door itself slid to the side as I stepped off my board.
+I hopped on and, with a full body stretch upward, managed to plant my hand on the waiting sensor, holding it there long enough to hear the lock disengage.
+The door itself slid to the side as I stepped off my board.
 
 "Welcome, Resident Sase."
 
@@ -84,9 +91,11 @@ While children sometimes looked out the windows, I preferred to keep my eyes on 
 There was nothing out there worth seeing.
 *Worth knowing.*
 
-I held my egg tooth between three fingers. <!-- TODO: Anxious -->
+I held my egg tooth between three fingers.
+<!-- TODO: Anxious -->
 
-A few minutes later, the shuttle passed into the moon, leaving the void behind, then departed the main spine, which they said traveled deep into the core of the Burrow back when extraction still ocurred, switching onto a smaller set of rails to make a trio of stops before returning to the Shipyard. When the doors opened at my stop, I grabbed my pack and board, then hopped off the shuttle the station, exiting into a large, dim cavern, the storage cavity known as Silo 3.
+A few minutes later, the shuttle passed into the moon, leaving the void behind, then departed the main spine, which they said traveled deep into the core of the Burrow back when extraction still ocurred, switching onto a smaller set of rails to make a trio of stops before returning to the Shipyard.
+When the doors opened at my stop, I grabbed my pack and board, then hopped off the shuttle the station, exiting into a large, dim cavern, the storage cavity known as Silo 3.
 
 Somewhere inside, Ágdá was waiting with a promise of hidden adventure.
 
@@ -98,13 +107,22 @@ Stripes of red and orange and purple made the puddles in the road ahead pop with
 
 The humidity opened my scales, relieving the itch of my molt; the tingles and prickles that the Shipyard's dry, processed air caused eased.
 
-Dim paths, marked by glowing paint filled with microbe nutrients, guided those who knew through the haphazard streets. Board underfoot, I pushed off, hovering along into the mist.
+Dim paths, marked by glowing paint filled with microbe nutrients, guided those who knew through the haphazard streets.
+Board underfoot, I pushed off, hovering along into the mist.
 
-Colors turned to streaks as I followed well-known signs. Two purple squares marked the way back to the school, an old warehouse laboratory that they'd turned into a school, dozens of clutches before I was hatched.
+Colors turned to streaks as I followed well-known signs.
+Two purple squares marked the way back to the school, an old warehouse laboratory that they'd turned into a school, dozens of clutches before I was hatched.
 I passed by with a wave, grateful that Teacher Kaysh---who was probably grateful to be home now that he had no one to keep in detention---had decided to let me off the hook tonight.
 
-From there, I turned toward "blue square over green circle", a winding path leading down the curved edge of the cave closer to the nadir far below, passing by many homes before depositing travlers at the market nearest my home.
+From there, I turned toward "blue square over green circle", a winding path leading down the curved edge of the cave toward the nadir far below, passing by many homes before depositing travlers at the market nearest my home.
 Shops and stalls selling everything from cloth and stoneware to feather-filled cages, racks of alien cuttlery, and fire-cooked food served to bring our communities together.
+
+At times, when passing a gap between buildings or when the trail turned back down a prominent rocky outcrop, the vastness of the enclosure opened up before me. The bioluminescent colonies streaked down and away, colorful streams marking wall and floor extending down below and then up from behind, a long, curved roundness that defined the shape of our lives in the silo.
+
+In the market, I stopped 
+
+
+
 
 <!-- TODO: how does Sase feel during all of this? -->
 
