@@ -114,18 +114,110 @@ Colors turned to streaks as I followed well-known signs.
 Two purple squares marked the way back to the school, an old warehouse laboratory that they'd turned into a school, dozens of clutches before I was hatched.
 I passed by with a wave, grateful that Teacher Kaysh---who was probably grateful to be home now that he had no one to keep in detention---had decided to let me off the hook tonight.
 
+<!-- TODO: how does Sase feel during all of this? -->
+
 From there, I turned toward "blue square over green circle", a winding path leading down the curved edge of the cave toward the nadir far below, passing by many homes before depositing travlers at the market nearest my home.
 Shops and stalls selling everything from cloth and stoneware to feather-filled cages, racks of alien cuttlery, and fire-cooked food served to bring our communities together.
 
+<!-- Like a valley floor, the bottom of this silo -->
 At times, when passing a gap between buildings or when the trail turned back down a prominent rocky outcrop, the vastness of the enclosure opened up before me. The bioluminescent colonies streaked down and away, colorful streams marking wall and floor extending down below and then up from behind, a long, curved roundness that defined the shape of our lives in the silo.
 
-In the market, I stopped 
+In the market, I stopped by a protein-carver's stall, the workplace of %%TODO-name, a clutch-mate of Ágdá's.
+<!-- TODO: add a non-ROARRS -->
 
+"Hey! Have you seen Ágdá since school?"
 
+%%TODO-name put glanced up from the tower of calories on the cutting board in front of her long enough for recognition to settle on her eyes. The inside of  her stallwas well lit by lumi-globes, blobs of selectively bred bacteria which glowed  almost as bright as the electric lights in the SHhypyard, but with a wider spectrum that made them easier on my eyes. (I was enjoying my class on biomicroprogramming, even if I was afriad to admit it tout loud).
 
+"Oh, hi, uh...Sasane?"
 
-<!-- TODO: how does Sase feel during all of this? -->
+My look answered her question.  *Not my name.*
+
+"It's Sase."
+
+"Right, whatever. Ágdá said to tell you she'd be down by the produce gardnes, something about potatees or potatoes or something like that."
+
+With a kick, I was off.
+
+****
+
+The silo we called home was shaped like a long bean resting longways.  While the transition from 'too vertical to build' was occupied by buildings, houses, and other consturctions, the bowl-ike basin at the bottom was public land, shared by the community.  Most of the surface area was used for community gardens.  While the bacerial and algal goop that the station was most known for was grown elsewhere in the Burrow, inside biomechanical vats built by the founders, our community appreciated the variety that comes with other types of food, and so, having imported plants---seedlings, shoots, and bulbs---from off-station, we created these wide spaces in the oft-flooded bottom of our living world to grow for more than sussitence.
+
+Adena would keep us alive, but we took it upon ourselves to thrive.
+
+Plus, having so many plants helped keep the local atmosphere healthy, easing the load on the Burrow's ancient atmospheric stabalization systems.
+
+Ten minutes after leaving the market, I was skimming past rows of wheat, corn, and other staples.
+
+Young families walked along a paved path around one of the floor's semi-permanent lakes, an old holding-pool that had accumulated enough nature over the centuries that it now appeared to be natural.
+
+I around terraces of rice, buried in pools of water, and skimmed through a fields of lettuce and beets. <!-- TODO: add some alien plants -->
+
+The markets and homes further up the walls relied on these gardens to bring people from around the galaxy together around a table, to share in tastes of an older time, of places abandoned but not forgotten.
+
+I'm one of the rarer residents, having been born here in the Burrow.
+
+In time, I found the potatoes, still green <!-- TODO: what do young potato plants look like? --> leaves, a clump two inches off teh ground.
+
+I started looking. Along the edges of the garden. Along side paths, near benches, behind rocks.
+
+Looking for the tell-tale orange spots of Ágdá's trail.
+
+I found them on a paved path that led along the wall-side edge, five orange dots in semi-circle, Ágdá's trail, directing me off the main trail at a t-shaped intersection.
+
+The new path led into the rock to a steel door, like the ozens that littered the edges of our silo. While most were locked, and all were restricted, few people bothered testing the doors, because the hallways on the far side were often worse than dangerous --- they were boring.
+
+I followed Ágdá's signs, little hints to the wise that this way led to something interesting
 
 ## Twist
 
+Inside, I walked through rough-hewn halls atop rusting metal grating. Dripping sounds were everwhere, a reminder of just how low I was relative to the silo. The ambienet glow of the bioluminescence penetrated the walls like veins of metal. It, too, had made this moon its home.
+
+I found Agda in the wide trench of a hexagonal tunnel, some ten feet down from the ledge I found her on. Her canvas bag rested on teh ground a few feet away from the wall she stood in front of, paint tubes in hand. She sprayed another swipe, adding a line of yellow that almost matched the vibrancy of her own. An older clutch-mate's shirt sat in a pile by her bag. Paint stained her hands and forearms, though further up, only colorful smudges disrupted the black dots and yellow base of her scales.
+
+<!-- TODO: amp up the 'restricted area is sketchy' tone -->
+
 ## Reconciliation
+
+Placing my board on the edge, I lowered myself down to the trench bottom, a run of smooth concrete with sloped edges on either side, the bottom three sides of the tunnel's hexagon.
+
+"Nice spot, Ágdá."
+
+<!-- Emotion: familiarity and comfort: this is right -->
+
+I grabbed my board with a small hop, then crossed the trench to stand by her side, board in hand.
+
+She continued to face her work while I approached.
+
+"Glad you made it. What do you think? What does it need more of?"
+
+I was never much of an artist, but had spent enough time with Ágdá to know when she wanted an actual answer. The piece was five feet tall and at least fifteen feet wide, a stylized depiction of the station, with the rocky Burrow to the right and the slender Shipyard to the left. *How long has she been working on this? I thought she just found this place?*
+
+The colors looked...fine. Good even. She had better words for them, but to me, that was it.
+
+"It looks good. I like the colors."
+
+"Really? Nothing else to add? Come on, you've seen loads of my work. How does this compare to last month's?"
+
+I shook my head, trying to wriggle free an answer. "Uh...I like the shapes on this one better, but it's harder to read your name on this one, and the yellow you're using doesn't quite match your..."
+
+She turned just enough to glance through the side of her eyes, a small smile trying to hide on her face. She turned away.
+
+"Well anyway, how was work?"
+
+"Oh, Doiay really loves that stupid motto. A few of the soldiers started a fight, but I was on my way out the door."
+
+"You didn't stay to see it resolved?" A hint of indignation.
+
+"Uh, no, I didn't. A few soldiers are not my concern, especially off the clock."
+
+I hopped on my board and started testing the slant beneath the mural as Ágdá picked a new set of colors from her bag.
+
+Different activities.\
+Same place.
+
+We talked for a while. Ágdá worked at a diner --- The On-Planet Diner -- and had her own Doiay, an adult human named "Sej" that annoyed her like Doiay did me. She asked why Kaysh let me skip detention. I assumed it was because I like his class. We stayed there, skating and painting, until I asked about Hyok, our old classmate who works as an apprentice mechanic in the Shipyard's repair bays.
+
+"Oh, don't be jealous," she said, before packing up her bag. "Come on, this one's done, and there's a deeper section I wanted to explore with you."
+
+*I'm not jealous.*
