@@ -89,10 +89,10 @@ They discover some moved debris, recognizing it because they spend time explorin
 - Reaction: worry -- something's down here?
 - Dillema: leave, follow, or explore elsewhere?
 	+ station drones would have cleaned -- it's something else
+	+ denial: we're in the Burrow -- everything's fine here
 	+ leave -- whoever it is might catch us (so what -- they shouldn't be here either)
 	+ explore elsewhere? (most of the station is boring -- take opportunities when you can)
 	+ explore (Sase gets to stay with Ágdá)
-
 
 <!-- Dynamite Proactive -->
 
