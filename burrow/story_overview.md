@@ -44,7 +44,7 @@ _OneSentence_: Sase searches for his friend Ágdá while the reader learns about
 *Goal*: Find Ágdá
 Sase looks for Agda. He leaves the shipyard, anxious to get back to the darker, rockier, goopier interior of the Burrow.
 
-Adena prevents Sase's access for a few minutes, not recognizing his handprint for a few attempts. He has to reach high up because Kihǔ are half the height of the humans that presumably built this place.
+Adena prevents Sase's access for a few minutes, not recognizing his handprint for a few attempts. He has to reach high up because Kihû are half the height of the humans that presumably built this place.
 
 Bioluminescent lights offer a diffuse glow. Metal grates, rusted yet stable, interrupt narrow hallways carved through rough stone.
 
@@ -89,7 +89,7 @@ They discover some moved debris, recognizing it because they spend time explorin
 - Reaction: worry -- something's down here?
 - Dillema: leave, follow, or explore elsewhere?
 	+ station drones would have cleaned -- it's something else
-	+ denial: we're in the Burrow -- everything's fine here
+	+ denial: we're in the Burrow -- everything's fine
 	+ leave -- whoever it is might catch us (so what -- they shouldn't be here either)
 	+ explore elsewhere? (most of the station is boring -- take opportunities when you can)
 	+ explore (Sase gets to stay with Ágdá)

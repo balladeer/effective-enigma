@@ -42,7 +42,7 @@ Not two weeks ago, Teacher Kaysh taught that the species we use for light, the k
 We left the main tunnel through an maintenance door, following a series of black circles with a small X above and to the right.
 Any electronic security measures had been replaced with now-rusted locks decades ago. <!-- TODO: replace this -- analog locks are important later -->
 
-Though narrow by founders' standards, the hall was still wide enough for two Kihǔ teens.
+Though narrow by founders' standards, the hall was still wide enough for two Kihû teens.
 Board in hand, I walked by Ágdá through the dim.
 The air was less humid here; we were getting further from the supply silo that housed my home.
 
@@ -156,7 +156,7 @@ Why would anyone be doing stuff, locking doors and the like? You can't even get 
 
 My shoulders shook off a chill.
 I looked away, unwilling to stay in that thought with Ágdá.
-The duct work running in the corner where the ceiling and wall met caught my eye---too small for an adult human, but merely uncomfortable for a human child or a fully grown Kihǔ.
+The duct work running in the corner where the ceiling and wall met caught my eye---too small for an adult human, but merely uncomfortable for a human child or a fully grown Kihû.
 
 My head lifted, I jogged away from the door to the nearest corner.
 "What about the vent?"
@@ -270,7 +270,7 @@ No voices, no thumps or approaching steps.
 I adjusted the chair and tried to square up the maps, then grabbed my backpack and board from the wall where I'd left them and joined her.
 
 A faint mumble of voices emerged from behind the left door.
-My electroreceptors told me a large biomass was headed our way, enough for at least six Kihǔ.
+My electroreceptors told me a large biomass was headed our way, enough for at least six Kihû.
 Or three humans.
 
 I passed Ágda---now in the vent---my hoverboard.
@@ -289,16 +289,63 @@ The door that had blocked us shook as someone worked the lock on the far side. M
 
 I peeked down.
 The grate was on the floor, leaning against the wall.
-I bit tongue.
 *Maybe they won't notice.*
 
 The door swung inward and the blue-white glow of an electric light filled the room below us.
 
+We held our breaths.
+
 <!--
 Who enters?
 1. Kaysh: teacher and unwilling spy
-2. Spy 1: F Human
-3. Spy 2: M Human
+2. Jawnpil : F Human - sympathetic, existing resident
+3. Nokelfod: M Human - new resident
+
+What are they doing?
+Getting an update from Kaysh.
  -->
-"Finally," said a void 
+"Finally," said a woman's voice. Too deep to be Kihû.
+
+Footsteps entered the room.
+Grunts preceded a *clank* as something heavy was placed on the floor.
+
+"We should get a cart next time," said the woman.
+
+"It wasn't that heave," said a man.
+
+Closer now, and without the door and distance to interfere, the bioelectric signals of the group resolved.
+
+Two humans and a Kihû
+
+*And a Kihû*
+
+I looked over at Ágdá who, having realized the same thing, was looking back at me, eyes wide in the dim.
+
+*We can't hide from a Kihû.*
+
+The door clicked shut, the three bodies met at the desk with the maps. One of the humans took the chair, while the other humanand the Kihû---after grabbing a stool from a shelf---stood next to each other, across the desk from the chair.
+
+"Ok, now we can talk openly," said the woman. "Nokelfod, how are you settling in? Any issues with your place?"
+
+"No m'am. The place is fine. I'm not looking forward to years living in the damp, but I've had far worse assignments than Silo 3."
+
+The life in the humans buzzed and bubbled; they were relaxed.
+The Kihû's bioelectricity was flat and sturdy, like pool of water, controlled for now, waiting for someone to throw a rock in and make some waves.
+
+"You'll get used to the damp and the dim. It grows on you after a couple of months."
+
+"Yes m'am."
+
+"And you, how are the residence permits coming along?"
+
+A ripple in the Kihu's pool. "I have managed to wipe two more. Adena's got protocols buried in protocols. Washing the permits is slow, but not blocked."
+
+"Pick up the pace, we'll need more---"
+
+"Wait," said the man, "wasn't there a grate on that vent?"
+
+My heart jumped. I stifled a yelp.
+
+
+
 
