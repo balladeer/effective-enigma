@@ -30,19 +30,24 @@ Not two weeks ago, Teacher Kaysh taught that the species we use for light, the k
 We left the main tunnel through an maintenance door, following a series of black circles with a small X above and to the right.
 Any electronic security measures had been replaced with now-rusted locks decades ago. <!-- TODO: replace this -- analog locks are important later -->
 
-Though narrow by founders' standards, the hall was still wide enough for two Kihǔ teens. Board in hand, I walked by Ágdá through the dim. The air was less humid here; we were getting further from the supply silo that housed my home.
+Though narrow by founders' standards, the hall was still wide enough for two Kihǔ teens.
+Board in hand, I walked by Ágdá through the dim.
+The air was less humid here; we were getting further from the supply silo that housed my home.
 
-Ágdá stopped as we passed an intersecting hallway to the right. She reached her hand out across my chest.
+Ágdá stopped as we passed an intersecting hallway to the right.
+She reached her hand out across my chest.
 
 "Hold up."
 
-The hall, the lights, the branching intersection, it all looked unremarkable. Shelves of abandoned equipment lined either side of side-hall, untouched in years.
+The hall, the lights, the branching intersection, it all looked unremarkable.
+Shelves of abandoned equipment lined either side of side-hall, untouched in years.
 
 Ágdá stepped between the nearest two selves, enough room for a single human, but not quite enough for the two of us.
 
 "This hallway wasn't clear the last time I came this way."
 
-I looked back the way we came then down the direction we were headed. The main path was clear, if rough-hewn.
+I looked back the way we came then down the direction we were headed.
+The main path was clear, if rough-hewn.
 
 "What do you mean, there's  no one here."
 
@@ -50,14 +55,16 @@ I looked back the way we came then down the direction we were headed. The main p
 
 "You've been here before? I thought we were exploring a new route you found."
 
-"That door's still a ways away -- I've been down this hallway before. I'm sure these shelves weren't like this." Ágdá wandered among the shelves, picking up old sensors and bits of ruined computers from wilted plastic containers.
+"That door's still a ways away -- I've been down this hallway before.
+I'm sure these shelves weren't like this." Ágdá wandered among the shelves, picking up old sensors and bits of ruined computers from wilted plastic containers.
 
 <!-- Sase internal reaction -->
 "Well, maybe Adena's maintenance bots finally found their way down here?"
 
 Ágdá shook her head.
 
-"The station doesn't patrol these old tunnels, and even if they did, the swarm would have cleaned up better than this. They leave sectors clean and ready for people, not dank like this."
+"The station doesn't patrol these old tunnels, and even if they did, the swarm would have cleaned up better than this.
+They leave sectors clean and ready for people, not dank like this."
 
 She wiped a bit of scum off one corner of the nearest shelving unit, showing it to me on her finger before wiping it on the floor.
 
@@ -71,22 +78,34 @@ I noticed the cool air, threatening a chill inside me.
 
 Ágdá rolled her eyes.
 
-"They're not supposed to be down here either. This area's restricted for everyone. Plus, their investment is limited to the Shipyard. Haven't you been paying attention in Station Civics?"
+"They're not supposed to be down here either.
+This area's restricted for everyone.
+Plus, their investment is limited to the Shipyard.
+Haven't you been paying attention in Station Civics?"
 
-*No, obviously. I hate that class.*
+*No, obviously.
+I hate that class.*
 
 "Well why don't we go explore the area you were originally going to show me?" The itch of my molt returned; I rubbed my sleeves for relief.
 
-"Nevermind that. Look!"
+"Nevermind that.
+Look!"
 
 She pointed to the wall, where the two hallways connected, towards a symbol we had not seen yet, painted a few inches off the ground; a square with two dots in the middle.
-We crouched down to examine it closer, shoulders pressing together as we leaned in close. <!-- TODO: introduce some sort of local light source -->
+We crouched down to examine it closer, shoulders pressing together as we leaned in close.
+<!-- TODO: introduce some sort of local light source -->
 To me, it looked like the many others we had seen -- signs of an older time, used by people before us.
 
 Ágdá saw something else.
-"I haven't seen *this* symbol before. Come on, let's see what's down here. Maybe there are clues about who did this." Ágdá stood and turned away, almost jogging between the shelves, leaving me crouched at the intersection.
+"I haven't seen *this* symbol before.
+Come on, let's see what's down here.
+Maybe there are clues about who did this."
+Ágdá stood and turned away, almost jogging between the shelves, leaving me crouched at the intersection.
 
-*We're in the Burrow. It's safe here.*
+<!-- TODO: add descriptions of pipes and duct work in the ceiling -->
+
+*We're in the Burrow.
+It's safe here.*
 
 I followed.
 
@@ -94,6 +113,84 @@ I followed.
 
 ## Crucible
 
+Ten minutes and four inconspicuous trail markers later, I stood beside Ágdá looking up at an old door.
+The electronics had been replaced with an analog lock sometime in the past.
+<!-- show Ágdá 'picking' electronic locks earlier -->
+
+"I don't suppose you know how to pick this one?"
+
+Ágdá grunted, her face squishing inwards as she thought.
+"No."
+She shook her head.
+"No, I don't."
+
+I thought back to the dozens of shelves that lined the hallways we had passed.
+"Maybe there's a crowbar, or something large enough to bash the lock off with back there?"
+
+Ágdá threw an arm out to prevent me from retreating.
+"We can't let anyone know we're here!"
+
+"Do you think someone is still using these symbols? Why would anyone be down here?"
+
+"Well, why are we down here?" Ágdá smirked.
+
+"That's not---you know what I mean.
+Why would anyone be doing stuff, locking doors and the like? You can't even get Adena's help down here!"
+
+Ágdá's head swiveled to face me, the blue circles of her eyes locking onto mine.
+"Maybe that's the point?"
+
+*Why would someone avoid Adena?*
+
+My shoulders shook off a chill.
+I looked away, unwilling to stay in that thought with Ágdá.
+The duct work running in the corner where the ceiling and wall met caught my eye---too small for an adult human, but merely uncomfortable for a human child or a fully grown Kihǔ.
+
+My head lifted, I jogged away from the door to the nearest corner.
+"What about the vent?"
+There might be an obstruction in the way---a fan or condensor or grate---but we did not need to travel far, so we might get lucky.
+
+Plus, we'd done similar things before.
+
+Ágdá tapped my shoulder, a big grin across her face.
+"You ready to get dusty?"
+
+Ágdá caught up, following my gaze to the nearest shelf: four green metal poles with six thick plastic shelves running crosswise, the highest of which stood but two feet below a grate in the vents.
+
+A few minutes later, I was stomach down on my hoverboard, egg-tooth tucked into my shirt, floating a few centimeters above the dust inside the vent, kicking forward with one leg at a time, the top of my backpack scraping along the top of the vent.
+The wide bands of metal popped and groaned as I passed, the weight of my hovering body still pressing against the metal floor.
+A greenish glow lit the path in front of me, courtesy a blob of lumikinetic algae Ágdá offered me for the front of my board.
+
+I floated away from the vent where Ágdá waited to the corner of the hallway below, an intersection where the duct work split left, right, and forward.
+I navigated the sharp left turn, grateful that only path-blocking fan was down the right path.
+With luck, I would find a vent to exit the ducts straight ahead, past the locked door marked with the %%TODO-what-symbol?
+
+"All-clear," I shout-whispered back to Ágdá; Something about being in a duct made talking feel unwise.
+I dismounted, pushing the hoverboard back to Ágdá, who joined me at the ventersection, canvas bag in tow.
+We stayed in separate vents, doing our bets to distribute our combined weight.
+Neighter of us wanted to metal groans to turn to strains and a snap.
+
+Back on my board, I clambered down the final stretch of vent, less than twenty meters until I passed the door.
+I stopped at a T-junction.
+To my left, the ducts continued a few meters before rising up.
+Ahead, at the edge of the light, I could see the unmoving metal blades of a fan.
+<!-- TODO: do Kihû have some sort of electric sense? -->
+At the bottom of a intersection, a grate.
+
+I agitated the green goop on my board until its glow strengthened, allowing me to make out shapes in the space below. 
+Large rectangles, bigger than me--desks or shelves, perhaps--filled the room.
+
+I rolled off the hoverboard, maneuvered it behind me and, with as much force as I could muster, kicked it, sending a chorus of bangs backward as it bounced back toward Ágdá.
+
+
+<!-- TODO: show more aliens--including humans--living in the Burrow -->
+<!-- TODO: Need to have Sase worry more, generally -->
+
 <!-- THOUGHT: What if Sase's molting scales cause a problem? Maybe they get left behind and the spies notice? -->
+
+<!-- TODO: Trips through HVAC ducting are going be short, noisy, painful (from lacerations) and potentially dangerous. -->
+
+<!-- TODO: Move this elsewhere. -->
+*I'm glad the rust can't get me sick*.
 
 ## Setback (or Victory)
