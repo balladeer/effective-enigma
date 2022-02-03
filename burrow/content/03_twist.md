@@ -8,6 +8,18 @@ Agatha  -> Ágdá
 Samson -> Sase
  -->
 
+
+ <!-- TODO: show more aliens--including humans--living in the Burrow -->
+<!-- TODO: Need to have Sase worry more, generally -->
+
+<!-- THOUGHT: What if Sase's molting scales cause a problem? Maybe they get left behind and the spies notice? -->
+
+<!-- TODO: Trips through HVAC ducting are going be short, noisy, painful (from lacerations) and potentially dangerous. -->
+
+<!-- TODO: Move this elsewhere. -->
+*I'm glad the rust can't get me sick*.
+
+
 ## Scene Goal
 
 Ágdá led me down the tunnel, past abandoned mine trucks and discarded equpiment piles.
@@ -177,20 +189,116 @@ Ahead, at the edge of the light, I could see the unmoving metal blades of a fan.
 <!-- TODO: do Kihû have some sort of electric sense? -->
 At the bottom of a intersection, a grate.
 
-I agitated the green goop on my board until its glow strengthened, allowing me to make out shapes in the space below. 
+I agitated the green goop on my board until its glow strengthened, allowing me to make out shapes in the space below.
 Large rectangles, bigger than me--desks or shelves, perhaps--filled the room.
 
 I rolled off the hoverboard, maneuvered it behind me and, with as much force as I could muster, kicked it, sending a chorus of bangs backward as it bounced back toward Ágdá.
 
+Crouching, over the junction, I kicked the grate free, then lowered myself through.
 
-<!-- TODO: show more aliens--including humans--living in the Burrow -->
-<!-- TODO: Need to have Sase worry more, generally -->
+****
 
-<!-- THOUGHT: What if Sase's molting scales cause a problem? Maybe they get left behind and the spies notice? -->
+The room was small---no more than 4 meters to a side---and made of heavy stone walls, one carved and three constructed.
+On either side of the natural wall, the adjoining walls held doors: the one that had blocked me on the left and its mirror on the right.
 
-<!-- TODO: Trips through HVAC ducting are going be short, noisy, painful (from lacerations) and potentially dangerous. -->
+Unlike the hallways we had arrived from, the room was not abandoned.
+A desk broke the path between the doors.
+Shelves---not dissimilar to those in the hallways---were stocked with papers and rolls, boxes and containers.
 
-<!-- TODO: Move this elsewhere. -->
-*I'm glad the rust can't get me sick*.
+My backpack and hoverboard rested beside the shelf we had climbed down, along with Ágdá's bag and the grate I'd kicked free.
+
+"Ágdá, can you read this?"
+
+I stood on the chair by the desk, peering down at a map laying atop it.
+It depicted the station, *our* station.
+There, the Shipyard, with its bays and rings.
+The Spine.
+The Burrow itself, with several of the storage communities circled and marked.
+Several lines passed deeper into the moon, toward its core, further back in time.
+
+Beneath the map, more diagrams.
+Specific ship bays circled and annotated.
+Papers filled with ink.
+Routes through Silo 3.
+*Paths through my home.*
+
+<!-- TODO: Sase emotional reaciton -->
+
+Ágdá joined me on the chair, one knee on the desk itself.
+We examined the papers before us.
+
+"No, I can't read it; this isn't any laugnage I know.
+Though---"
+She paused.
+
+"The War?" A knot formed in my stomach.
+
+Ágdá looked up from the diagrams and nodded.
+
+"Yeah---"
+
+A hopped off the chair, away from the desk.
+"What is all this doing here?"
+My eyes scanned the shelves, chests, and containers.
+All of this took work.
+"And why use paper? That just makes it harder for---"
+
+"---for Adena to know about this."
+Ágdá joined me back on the floor.
+"They don't want Adena to know, to hear whispers of whatever they are doing in the data streams."
 
 ## Setback (or Victory)
+I rubbed my molting scales, arms crossed to let me massage each arm at once.
+"Should we tell someone?"
+
+Ágdá opened her mouth to say something, but then we both felt it.
+Along the side of my face
+
+Electricity.
+
+Life.
+
+*Something's coming.*
+
+<!-- TODO: establish how Sase got down from the vent -->
+
+I looked at the ground, as if boring my eyes would sharpen my ears.
+No voices, no thumps or approaching steps.
+*Not yet.*
+
+Ágdá grabbed her bag and headed for the shelves we'd descended from.
+I adjusted the chair and tried to square up the maps, then grabbed my backpack and board from the wall where I'd left them and joined her.
+
+A faint mumble of voices emerged from behind the left door.
+My electroreceptors told me a large biomass was headed our way, enough for at least six Kihǔ.
+Or three humans.
+
+I passed Ágda---now in the vent---my hoverboard.
+
+"Which way do we go?" I whispered, trying to keep my volume down as I crawled into the vent, ending up across from the hole I'd just entered through, facing Ágdá.
+
+Her eyes were wide and I'm sure our hearts were echoing in the vent.
+
+"They'll hear us if we go back," I said.
+
+"They'll us if we move at all. Did you grab the grate?"
+
+We each stared at the other.
+
+The door that had blocked us shook as someone worked the lock on the far side. Muffled voices continued their conversation.
+
+I peeked down.
+The grate was on the floor, leaning against the wall.
+I bit tongue.
+*Maybe they won't notice.*
+
+The door swung inward and the blue-white glow of an electric light filled the room below us.
+
+<!--
+Who enters?
+1. Kaysh: teacher and unwilling spy
+2. Spy 1: F Human
+3. Spy 2: M Human
+ -->
+"Finally," said a void 
+
