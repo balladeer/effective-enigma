@@ -141,7 +141,7 @@ My supervisor arrived, throwing off a pair of gloves as she did.
 
 ## Victory
 
-My replacement, a Kihǔ like me, had not arrived yet; I did not intend to stick around.
+My replacement, a Kihû like me, had not arrived yet; I did not intend to stick around.
 
 I grabbed my board and pack from the employee shelf, changing out of my uniform and into a more comfortable jacket as I walked. From my jacket pocket, I fetched my necklace: a length of waxed synth-fiber with my egg-tooth attached to the middle.
 

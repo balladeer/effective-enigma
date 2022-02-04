@@ -31,7 +31,7 @@ Shops lined the walls on every floor, but these shops were not meant for residen
 They sold trips to far-away systems and fancy drinks in fancy bottles.
 Flashing lights and fancy signs teased money out of the pockets of visitors.
 
-I walked near the outer edge of the hall with other Kihǔ, a convention that kept the faster humans, with their muscle-filled legs as tall as me, near the center of traffic, where they could flow by without disturbing the rest of us.
+I walked near the outer edge of the hall with other Kihû, a convention that kept the faster humans, with their muscle-filled legs as tall as me, near the center of traffic, where they could flow by without disturbing the rest of us.
 
 Only residents were allowed into the Burrow proper, and that's where I was headed.
 Ágdá should have finished her own shift in one of the Shipyard's restaurants a couple hours ago; she had found a new way into the restricted tunnels a few days ago and we were eager to go exploring.
@@ -41,7 +41,7 @@ Adena, the station's AI assisstant, kept the door open, it's black paneling cont
 
 Strung across the hallway sat a trio of humanoid-sized checkpoints: chain-link fences with three controlled-entry doors installed and ribbon-cordoned lanes leading up to each, dividing people into two groups: visitors and residents.
 
-When my turn arrived, I approached the terminal, the only Kihǔ in the line of eight residents transiting back to the rocky Burrow.
+When my turn arrived, I approached the terminal, the only Kihû in the line of eight residents transiting back to the rocky Burrow.
 Ahead of me, the gray metal door slid shut.
 I looked around for the stool that Adena typically provided for us; the hand-print reader was built for taller beings.
 

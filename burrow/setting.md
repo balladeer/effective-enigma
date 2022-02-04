@@ -1,6 +1,6 @@
 # Species aboard the Burrow
 
-- Kihǔ
+- Kihû
 	+ pangolin / reptilian aliens
 	+ half the size of humans
 	+ a sizeable community live in the Burrow
@@ -112,7 +112,7 @@ Which came first is forgotten.
 The systems, mundane and uncanny, keeping us alive.
 
 Assistant's name: ABENA
-(Kihǔ all say 'ADENA')
+(Kihû all say 'ADENA')
 
 ### Directives
 

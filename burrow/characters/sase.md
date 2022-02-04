@@ -16,7 +16,7 @@ Is your voice heard? And when is it listened to?
 ### Character Profile
 My name is Sase(`/ˈsæsɛ/`) (he/him).
 
-I'm Kihǔ, and when you first see me you'll probably notice my imposing size (for a Kihǔ), molting scales, and disinterested stance.
+I'm Kihû, and when you first see me you'll probably notice my imposing size (for a Kihû), molting scales, and disinterested stance.
 
 I wear a long-sleeved shirt (to cover my molt), torn pants, and always carry my heavily-stickered hoverboard.
 
