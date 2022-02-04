@@ -346,6 +346,135 @@ A ripple in the Kihu's pool. "I have managed to wipe two more. Adena's got proto
 
 My heart jumped. I stifled a yelp.
 
+The bioelectricity in the room below sizzled and snapped as the occupants scrambled about.
 
+"Wait a sec--Nokelfod, turn off your light," said the woman.
 
+With a click, the electric lamp went out.
 
+"There's a green glow coming from the vent!"
+
+*What do I do? What do I do?*
+
+Ágdá sat motionless, her body in the vent that led back to the shelf we had entered through.
+I was wedged across from her, an metal fan several meters behind me blocking any escape.
+To my right, the vent extended several meters before bending upward into a vertical shaft.
+
+"What do you we do?" Ágdá mouthed the words from her position across the open gap between us.
+Any movement would make noise as the vent sustained our unplanned weight.
+I gestured to the vertical shaft with my eyes. "Over there?"
+
+<!-- TODO: More emotional tells from Ágdá and Sase -->
+
+<!-- TODO: what's a good derogatoroy term humans could use for Kihû? -->
+"Little one, you can fit through that hole, right? Go check it out."
+The woman's voice was just above a whisper.
+
+I glared at the glowing green blob on the hoverboard beside Ágdá, wishing the tiny creatures inside had gone dark soon, that I had not agitated them back into brightness, that I was not here, stuck in a vent.
+
+Ágdá's eyes shined. When she squished them shut, tears slid out from each, flowing down her cheeks.
+Beneath us, the Kishû clambered up the same shelving unit we had used minutes ago.
+The blue-white glow of a flashlight flicked on, far brighter than the dimming light of my glow-blob.
+The light washed out my eyes; I shrunk my head back into my neck, shutting my eyes tight.
+
+*Get away. Get away. Get away.*
+
+The flashlight passed over my eyelids, a warm, all-encompassing beam that scattered thoughts.
+I tried to withdraw further into my shoulders.
+
+The light departed.
+
+I peeked open one eye. My retina adjusted.
+
+Not a half-meter from my face, a head covered in red-violet scales poked through the grate hole.
+
+*Teacher Kaysh?*
+
+He was holding the flashlight in one arm, pointing it toward the vertical shaft, while the other extended down the vent beside Ágdá, the creamy-white skin of his underside coated in dust.
+I opened my mouth to speak, but my teacher's eyes grew wide, his subtle head shake shutting me up.
+He turned his head toward Ágdá---who was shaking, her lips drawn in as tight as she could muster---and with his flashlight hand, Kaysh plucked the glow-blob from the hoverboard and lowered it back through the grate.
+
+He tilted his head down enough to talk to the two humans below.
+
+"There was someone up here; they left this behind. Give me a moment to look for anything else."
+
+Kaysh brought his eyes up and met mine.
+"Don't move," he mouthed, before turning to Ágdá.
+Then he lowered himself down and out of the vent.
+"Hand me that grate; I'll reinstall it while I'm up here."
+
+The thin line of the grate appeared in the hole, and with some effort, the grate was reattached.
+
+I looked at Ágdá.
+
+She looked at me.
+
+Beneath us, commotion. Hurried, urgent whispers.
+
+My muscles grew sore; I stayed where I was, lying on my stomach, unwilling to stretch so much as a toe.
+My molting scales burned, but the burn faded with time.
+So, too, did the light.
+
+****
+
+Silence returned.
+
+In the quiet dark, Ágdá's bio-presence remained, quiet, nervous, and withdrawn.
+
+"Are they gone?" she whispered, her words fearing to cross the grate-shaped gap between us.
+
+I strained my ears and electro-receptors.
+Nothing.
+"I think so."
+
+We waited.
+Breaths passed.
+
+Deep creaks and groans pinged the vents from deep or far.
+Chills gripped my aching muscles.
+
+"Let's get out of here," I said. "There's a button on the side of my board, near the back. Can you feel it?"
+
+A soft red glow flicked on, enough for sillhouettes, but no more.
+The Ágdá-shape shifted onto the now-hovering board.
+
+The vent gave out a loud groan.
+
+Both of us froze.
+We waited.
+
+Nothing came.
+
+"Let's go."
+
+Ágdá withdrew a glow-blob from her canvas bag to light our way.
+We worked our way back through the vents, every bang and buckle of the metal sending a jolt of fear through my heart.
+We emerged back into the hallway, the sudden loss of the vent's tight quarters leaving me exposed and vulnerable.
+
+We looked at each other, neither sure what to say. Ágdá headed toward the lock door; I folloewd close behind.
+
+The door was open, it's lock removed.
+
+Across the way, the far door stood ajar. Inside, bare shelves and an empty metal desk were all that was left.
+
+"How long do you think we were up there?" I asked, embarassed I had nothing more important to ask.
+
+"I dunno, a couple of hours, I think" Ágdá walked around the room, her right arm held high, massaging the glow-bulb to keep it well lit.
+
+"Were those soldiers, do you think?"
+
+*Soldiers, outside the Shipyard*
+
+Ágdá finished her loop of the room. "Spies, probably. That was Teacher Kaysh, wasn't it? What was he doing with them?"
+
+"And why did he let us go?" I thought back to the stern look in his eyes as Keysh mouthed the words "Don't move" to me.
+
+*Soldiers in Silo 3*
+
+Ágdá patted my shoulder. "We should tell someone about this, someone in the silo should know."
+
+"Ágdá, who are we going to tell? Who would listen? Teacher Kaysh is who I would have gone to, but he's in the middle of it." I shook my head and observed my dusty shoes.
+
+"Well we need to tell someone!"
+
+"Yeah, I suppose so," I said, the growing knot in my stomach threatening nausea. "Ágdá, I'd like to go home. Can you get us out of here?"
