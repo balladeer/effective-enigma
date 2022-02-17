@@ -11,6 +11,6 @@ echo "Removing extra newlines created by above"
 sed -i.bak '/^$/N;/^\n$/D' output/single_file.md
 
 echo "Creating .docx"
-pandoc -o output/single_file.docx output/single_file.md
+pandoc -o output/single_file.docx output/single_file.md --reference-doc=../reference.docx
 
 echo "Done!"

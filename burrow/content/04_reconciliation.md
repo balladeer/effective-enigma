@@ -4,8 +4,6 @@
 
 <!-- _One Sentence_: Back in their Community, the teens part ways and Sase, sensing a growing paranoia within himself, heads to the Shipyard, preferring known danger to unknown danger. -->
 
-****
-
 ## Reaction
 
 <!-- Suspicion and Paranoia -->
@@ -32,15 +30,15 @@ Paranoia
 - Seeing danger symbols in everything
 -->
 
+I stood in Silo 3, outside the market where I shopped for food, where Ágdá's clutch-mate sold snacks and fuel and water.
+My elbows dug at my sides as I glanced from person to person.
+The weight of my backpack tugged at my shoulders; I kept shrugging to relieve the discomfort.
+
 "Well, I uh---I need to head to work."
 Ágdá looked past me as she spoke.
 
 "Yeah, sure. See ya."
 My eyes forgot about her as she turned to walk away.
-
-I stood in Silo 3, outside the market where I shopped for food, where Ágdá's clutch-mate sold snacks and fuel and water.
-My elbows dug at my sides as I glanced from person to person.
-The weight of my backpack tugged at my shoulders; I kept shrugging to relieve the discomfort.
 
 All around me, people---my neighbors---talked and laughed and ate and walked.
 
@@ -85,7 +83,7 @@ I stared out into the void of space, out toward the War.
 
 The War was out there, everywhere out there.
 
-*But it was here, too*
+*But it was here, too.*
 
 I entered the Shipyard, with its wide, white halls, its blue ceramic ceilings, and its electric lights buzzing overhead, irritating my face and neck.
 
