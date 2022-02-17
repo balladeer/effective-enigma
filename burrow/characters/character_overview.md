@@ -33,3 +33,12 @@
 - Non-ROAARS: walks the line between entrepreneur and schemer with side gigs
 
 *Hyok*: Ágdá's old classmate turned new crush, who works in the Shipyard's bays as an apprentice mechanic.
+
+*Gû*: Ágdá's clutchmate. Works a convenience bodega in Silo 3.
+- Race: Kihû
+- O: heterosexual
+- A: teen
+- A: able-bodies
+- R: Believes in 'The Current' spiritually
+- S: male
+- Non-ROAARs: hoards books of off-station poetry
