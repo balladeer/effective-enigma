@@ -1,13 +1,13 @@
 # Development
 
-%% Kishōtenketsu
+<!-- Kishōtenketsu -->
 <!-- _One Sentence_: Sase searches for his friend, Ágdá, while the reader learns about the major sections of the space station, the communities that grow organically inside the Burrow's moon-mined mass, and the vastness of the uncontrolled Core. -->
 
 ## Introduction
 
 I wound my way through the narrow, bare hallways of the employees-only back-halls before sliding out through a subtle door into one of the Shipyard's public arteries and into the flow of people.
 Again, the bold white-and-blue of the Shipyard's primary aesthetic glowed from every wall and ceiling, unwilling to be hidden by decades of dust.
-At every corner and intersection, tiled into the floor and painted onto the walls, the solid-blue symbol of a human head, its only eye a white star, greeted me, a single bit of corporate pageantry left over from the builders and miners that made the station.
+At every corner and intersection, tiled into the floor and painted onto the walls, the solid-blue symbol of a human head, its only eye a white star, greeted me, a bit of corporate pageantry left over from the builders and miners that made the station.
 
 My hoverboard bounced against my leg as I walked.
 I eyed every nook and bench, but knew I wouldn't find a place to board here.
@@ -85,13 +85,13 @@ Aboard one of Adena's rail shuttles, I sat with my back to the window, facing th
 If the bright electricity inside was bad, the silent void was worse.
 
 The shuttle left the metal tube, traveling down an industrial rail that ran along the Shipyard's spine back to the rocky mass of the Burrow.
-While children sometimes looked out the windows, I preferred to keep my eyes on the floor.
+While children and the easily impressed looked out the windows, I preferred to keep my eyes on the floor.
 There was nothing out there worth seeing.
-*Worth knowing.*
+*Nothing worth knowing.*
 
 I held my egg tooth between three fingers, feeling its point dig into my skin. This part of my trip always felt longer than the clocks claimed.
 
-A few minutes later, the shuttle passed into the moon, leaving the void behind, then departed the main spine, which they said traveled deep into the core of the Burrow back when extraction still occurred, switching instead onto a smaller set of rails to make a trio of stops before returning to the Shipyard.
+Minutes later, the shuttle passed into the moon, leaving the void behind, then departed the main spine, which they said traveled deep into the core of the Burrow back when extraction still occurred, switching instead onto a smaller set of rails to make a trio of stops before returning to the Shipyard.
 When the doors opened at my stop, I grabbed my pack and board, then hopped off the shuttle and left the station, exiting into a large, dim cavern, the storage cavity known as Silo 3.
 
 *Home.*
@@ -106,7 +106,7 @@ Stripes of red and orange and purple made the puddles in the road ahead pop with
 
 The humidity opened my scales, relieving the itch of my molt; the tingles and prickles that the Shipyard's dry, processed air caused eased.
 
-Dim paths, marked by glowing paint filled with microbe nutrients, guided those who knew through the haphazard streets.
+Dim paths, marked by glowing paint filled with microbes, guided those who knew through the haphazard streets.
 Board underfoot, I pushed off, hovering along into the mist.
 
 Colors turned to streaks as I followed well-known signs.
@@ -121,13 +121,13 @@ Shops and stalls selling everything from cloth and stoneware to feather-filled c
 <!-- Like a valley floor, the bottom of this silo -->
 When passing a gap between buildings or when the trail turned back down a prominent rocky outcrop, the vastness of the enclosure opened up before me. The bioluminescent colonies streaked down and away, colorful streams marking wall and floor extending down below and then up from behind, a long, curved roundness that defined the shape of our lives in the silo.
 
-In the market, I stopped by a market stall close to the school, where Gû, one Ágdá's clutch-mates, works. He sat behind the counter, waiting for customers. *A familiar feeling.* He buried his mottled green nose in a book of poetry, one of our school reading assignments, and I knew from Ágdá that this was not his first time reading the book.
+In the market, I stopped by a stall closest to the school, where Gû, one of Ágdá's clutch-mates, works. He sat behind the counter, waiting for customers. *A familiar feeling.* He buried his mottled green nose in a book of poetry, one of our school reading assignments, but I knew from Ágdá that this was not his first time reading it through.
 
 "Hey Gû! Have you seen Ágdá since school?"
 
 Gû glanced up from his book long enough for recognition to settle on his eyes. The inside of the market was well lit by lumi-globes, blobs of selectively bred bacteria, which glowed almost as bright as the electric lights in the Shipyard, but without the undercurrent of electricity that bothered my electroreceptors.
 
-"Oh, hi, uh...Sasane?" 
+"Oh, hi, uh...Sasane?"
 
 My look answered his question. *Not my name.* "It's Sase."
 
@@ -145,26 +145,26 @@ Plus, having so many plants helped keep the local atmosphere healthy, easing the
 
 Ten minutes after leaving the market, I was skimming past rows of wheat, corn, and other staples.
 
-Young families walked along a paved path around one of the floor's semi-permanent lakes, an old holding-pool that had accumulated enough nature over the centuries that it now appeared to be natural.
+Young families walked along a paved path around one of the floor's semi-permanent lakes, an old holding-pool that had accumulated enough nature over the centuries that it no longer appeared artificial.
 
 I wound around terraces of rice, buried in pools of water, and skimmed through fields of lettuce and beets. <!-- TODO: add some alien plants -->
 
 The markets and homes further up the walls relied on these gardens to bring people from around the galaxy together at a table, to share in tastes of an older time, of places abandoned but not forgotten.
 
-I'm one of the rarer residents, having been born here in the Burrow.
+Unlike many residents, I've never been off-station, having been born here in the Burrow.
 
-<!-- TODO: what do young potato plants look like? --> 
+<!-- TODO: what do young potato plants look like? -->
 In time, I found the potatoes, still green leaves, a clump two inches off the ground.
 
 I started looking. Along the edges of the garden. Alongside paths, near benches, behind rocks.
 
 Looking for the telltale orange spots of Ágdá's trail.
 
-I found them on a paved path that led along the wall-side edge, five orange dots in a semi-circle, Ágdá's personal trail, directing me off the main trail at a t-shaped intersection.
+I found them on a paved path that led along the wall-side edge, five orange dots in a semicircle, Ágdá's personal marker, directing me off the main trail at a t-shaped intersection.
 
-The fresh path led into the rock, to a steel door, like the dozens that littered the edges of our silo. While most remained locked, and all marked restricted, few people bothered testing the doors, because the hallways on the far side were often worse than dangerous --- they were boring.
+The fresh paint led into the rock, to a steel door, like the dozens that littered the edges of our silo. While most remained locked, and all marked restricted, few people bothered testing the doors, because the hallways on the far side were often worse than dangerous --- they were boring.
 
-I followed Ágdá's signs, small hints to the wise that this way led to something interesting. 
+I followed Ágdá's signs, small hints to the wise that this way led to something interesting.
 
 ## Twist
 

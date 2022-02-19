@@ -16,7 +16,7 @@ I rubbed my left sleeve with my other hand, the pressure and friction providing 
 For the first time since starting here, I was glad that the station's health code allowed long-sleeved uniforms.
 
 A counter filled with trays of still-warm food behind glass windows separated me from the visitors packing the tables in the center of the circular room.
-The station welcomes visitors and new arrivals all the time, but I had never seen so many soldiers from both sides of the war visit at once.
+The station welcomed visitors and new arrivals all the time, but I had never seen so many soldiers from both sides of the war visit at once.
 
 A typical day would see a few dozen people eating during this hour, but now blue uniforms filled the tables.
 Light blue pants here, dark blue over there.
@@ -50,12 +50,12 @@ _What else would we serve?_
 The man fished out some coins while I made his bowl.
 I fed them to the pay machine; when it failed to spit them back out, I handed over the food.
 
-He carried his meal over to the goop bar---six bowls of Burrow-made nutrient pastes---and begin spooning dabs of each onto the side of his bowl.
+He carried his meal over to the goop bar---six bowls of Burrow-made nutrient pastes---and began spooning dabs of each onto the side of his bowl.
 Next to neutrality, the Burrow's best known for its extensive microbe-farms.
 
 "_Sase_, you're supposed to greet our customers with the motto."
 
-I finished marking transaction into the computer, using the time to steel myself, then stepped off my stool and turned toward my supervisor.
+I finished marking the transaction into the computer, using the time to steel myself, then stepped off my stool and turned toward my supervisor.
 Doiay and I were in the same grade, but like most humans, she was almost twice my height and had black hair.
 Hers reached past her shoulders unbound, though she kept it wrapped up in a twist under her food net.
 
@@ -81,7 +81,7 @@ I smiled, thinking about wandering the gardens, getting away from the harsh, dry
 
 "Excuse me, hello?"
 
-My gazed sharpened.
+My gaze sharpened.
 Another customer.
 Another human.
 
@@ -115,7 +115,7 @@ I froze.
 
 A shouted gasp rose above the crowd.
 
-"Hah! Watch those slippery fingers, %%TODO-derogative."
+"Hah! Watch those slippery fingers, planeteer."
 
 "What was that?! I'm gonna knock you out!"
 
@@ -138,7 +138,7 @@ She banged on the counter, trying to command the crowd’s attention as I backed
 
 I look back at the kitchen; my replacement, a Kihû like me, had not arrived yet, but I did not intend to stick around.
 
-I passed by simmering pots and dipped into the small storage nook, out of sight of the front. After grabbin my board and pack from the employee shelf, I changed out of my uniform into a more comfortable jacket. From its chest pocket, I withdrew my necklace, a length of waxed synth-fiber with my egg-tooth attached to the middle.
+I passed by simmering pots and dipped into the small storage nook, out of sight of the front. After grabbing my board and pack from the employee shelf, I changed out of my uniform into a more comfortable jacket. From its chest pocket, I withdrew my necklace, a length of waxed synth-fiber with my egg-tooth attached to the middle.
 
 Behind me, Doiay yelled 'Security!' as I slipped out.
 

@@ -46,9 +46,9 @@ The air was less humid here; we were getting further from the supply silo that h
 Ágdá stopped as we passed an intersecting hallway to the right.
 She reached her hand out across my chest.
 
-"Hold up."
+"Wait."
 
-The hall, the lights, the branching intersection, it all looked unremarkable.
+The hall, the lights, the branching intersection, everything looked unremarkable.
 Shelves of abandoned equipment lined either side of side-hall, untouched in years.
 
 Ágdá stepped between the nearest two shelves, enough room for a single human, but not quite enough for the two of us.
@@ -65,16 +65,19 @@ The main path was clear, if rough-hewn.
 "You've been here before? I thought we were exploring a new route you found."
 
 "That door's still a ways away---I've been down this hallway before. I'm sure these shelves weren't like this."
-Ágdá wandered among the shelves, picking up old sensors and bits of ruined computers from wilted plastic containers.
+
+"Like what?" I asked. "Abandoned?"
+
+Ágdá wandered among the shelves, picking up old sensors and bits of ruined computers from wilted plastic containers. "No, I mean, walkable. Passable. This hallway was a mess when I last passed by."
 
 <!-- Sase internal reaction -->
-"Well, maybe Adena's maintenance bots finally found their way down here?"
+"Well, maybe Adena's maintenance bots found their way here?"
 
 Ágdá shook her head.
 
-"The station doesn't patrol these old tunnels, and even if they did, the swarm would have cleaned up better than this. They leave sectors clean and ready for people, not dank like this."
+"The station doesn't patrol these tunnels. If they did, the swarm would have cleaned up better than this. They leave sectors clean and ready for people, not *dank*."
 
-She wiped a bit of scum off one corner of the nearest shelving unit, showing it to me on her finger before wiping it on the floor.
+She wiped a fleck of scum off the nearest shelving unit, showing it to me on her finger before wiping it on the floor.
 
 <!-- TODO: remove mention of the Shipyard or the War from 02_development -->
 
@@ -82,26 +85,26 @@ The cool air threatened a chill inside me.
 
 <!-- TODO: denial -->
 
-"What if its people working for Fee-Nix? They'd throw a fit if they caught us down here."
+"What if it's people working for Fee-Nix? They'd get us in major trouble if they caught us in these tunnels."
 
-Ágdá rolled her eyes.
+Ágdá scoffed.
 
-"They're not supposed to be down here either. This area's restricted for everyone. Plus, they limited their investment to the Shipyard. Haven't you been paying attention in Station Civics?"
+"They're not supposed to be here either. This whole area's restricted for everyone. Plus, they limited their investment to the Shipyard. Haven't you been paying attention in Station Civics?"
 
-*No, obviously. I hate that class.*
+*No. I hate that class.*
 
-"Well, why don't we go explore the area you were originally going to show me?" The itch of my molt returned; I rubbed my sleeves for relief.
+"Well, why don't we go explore the door we've been talking about?" The itch of my molt returned; I rubbed my sleeves for relief.
 
 "Nevermind that. Look!"
 
 She pointed to the wall, where the two hallways connected, towards a symbol we had not seen yet, painted a few inches off the ground; a square with two dots in the middle.
 We crouched down to examine it closer, shoulders pressing together as we leaned in close.
-<!-- TODO: introduce some sort of local light source -->
+<!-- TODO: introduce a local light source -->
 To me, it looked like the many others we had seen---signs of an older time, used by people before us.
 
 Ágdá saw something else.
-"I haven't seen *this* symbol before. Come on, let's see what's down here. Maybe there are clues about who did this."
-Ágdá stood and turned away, almost jogging between the shelves, leaving me crouched at the intersection.
+"I haven't seen *this* symbol, though. Let's see what's down this hallway. There could be clues about who did this."
+Ágdá stood and turned away, jogging between the shelves, leaving me crouched at the intersection.
 
 <!-- TODO: add descriptions of pipes and ductwork in the ceiling -->
 
@@ -115,7 +118,7 @@ I followed.
 ## Crucible
 
 Ten minutes and four inconspicuous trail markers later, I stood beside Ágdá looking up at an old door.
-In the recent past, someone had replaced the electronics had with an analog lock.
+In the recent past, someone had replaced the electronics with an analog lock, too free of buildup to have been here for decades.
 
 "I don't suppose you know how to pick this one?"
 
@@ -124,7 +127,7 @@ In the recent past, someone had replaced the electronics had with an analog lock
 She shook her head.
 "No, I don't."
 
-I thought back to the dozens of shelves that lined the hallways we had passed.
+I thought of the dozens of shelves lining the hallways we had passed.
 "Maybe there's a crowbar, or something large enough to bash the lock off with back there?"
 
 Ágdá threw an arm out to prevent me from retreating.
@@ -137,7 +140,7 @@ I thought back to the dozens of shelves that lined the hallways we had passed.
 "That's not---you know what I mean. Why would anyone be doing stuff, locking doors and moving shelves? You can't even get Adena's help down here!"
 
 Ágdá's head swiveled to face me, the blue circles of her eyes locking onto mine.
-"Maybe that's the point?"
+"What if that's the point?"
 
 *Why would someone avoid Adena?*
 
@@ -164,20 +167,19 @@ I floated away from the vent where Ágdá waited to the corner of the hallway be
 I navigated the sharp left turn, grateful that only path-blocking fan was further down the right path.
 With luck, I would find a vent to exit the ducts straight ahead, past the locked door.
 
-"All-clear," I shout-whispered back to Ágdá; something about being in a duct made talking at normal volume feel unwise.
+"All-clear," I shout-whispered back to Ágdá; being in a duct made talking at normal volume unwise.
 I dismounted, pushing the hoverboard back to Ágdá, who joined me at the ventersection, canvas bag in tow.
 We stayed in separate corners, doing our best to distribute our combined weight; neither of us wanted the metal groans to turn to strains and snaps.
 
-Back on my board, I clambered down the last stretch of vent, less than twenty meters, until I passed over the door.
-I stopped at a T-junction.
+Back on my board, I clambered across the last stretch of vent, less than twenty meters, until I passed over the door, stopping at a T-junction.
 To my left, the ducts continued a few meters before rising.
-Ahead, at the edge of the green light, I could see the unmoving metal blades of a fan. 
+Ahead, at the edge of the green light, I saw the unmoving metal blades of a fan.
 At the bottom of the intersection, a grate.
 
-I agitated the green goop on my board until its glow strengthened, allowing me to peer down through the grate and make out shapes in the space below.
+I agitated the green goop on my board until its glow strengthened, allowing me to peer through the grate and make out shapes in the space below.
 Large rectangles, bigger than me---desks or shelves, perhaps---filled the room.
 
-I rolled off the hoverboard, maneuvered it behind me and, with as much force as I could muster, kicked it, sending a chorus of bangs backward as it bounced back toward Ágdá.
+I rolled off the hoverboard, maneuvered it behind me and, launched it back with my left leg, sending a chorus of bangs backward as it ricocheted toward Ágdá.
 
 Crouching over the junction, I kicked the grate free, then lowered myself through.
 
@@ -418,7 +420,7 @@ Chills gripped my aching muscles.
 
 "Let's get out of here," I said. "There's a button on the side of my board, near the back. Can you feel it?"
 
-Rustles in the dark. A soft red glow flicked on, enough for silhouettes, but no more.
+The rustling of clothing. A soft red glow flicked on, enough for silhouettes, but no more.
 The Ágdá-shape shifted onto the now-hovering board.
 
 The vent gave out a loud groan.
@@ -448,7 +450,7 @@ Across the way, the far door stood ajar. Inside, bare shelves and an empty metal
 
 *Soldiers, outside the Shipyard.*
 
-Ágdá finished her loop of the room. "Spies, probably. That was Teacher Kaysh, wasn't it? What was he doing with them?"
+Ágdá finished her tour of the room. "Spies, I think. That was Teacher Kaysh, wasn't it? What was he doing with them?"
 
 "And why did he let us go?" I thought back to the stern look in his eyes as Kaysh mouthed the words "don't move" to me.
 
