@@ -46,14 +46,14 @@ Narrator is jealous of partner's body --- and the attention it receives --- and 
 
 ****
 Vitamin D
-<!-- Draft: ? words -->
+<!-- Draft: 98 words -->
 "My parents are dermatologists," I lied. "They say to limit sun exposure." You never liked my family; for years, you ignored their advice.
 
-A month before the wedding, I was still trying. "Your health is important," I lied again, "Come inside."
+A month before our wedding, I was still lying. "Your skin is on fire; I should be your light. Come spend time with me, inside."
 
-You never listend to me.
+You never listened to me.
 
-Instead, you turned to face me, shouting that I never tried to understand, then said the only thing I still hear in your voice.
+Instead, you shouted that I never understood, never tried. Then you said the only words I still hear.
 
 "Depression kills faster than cancer."
 
@@ -72,7 +72,7 @@ R: My friends all work hard in school. They'll live in the sun. I'm failing out 
 
 ****
 A Sun-touched Land
-<!-- Draft: 98 words -->
+<!-- Draft: 96 words -->
 Ran the beach this morning. In the gym after dark. Now I sit, suntanning. Blue sky above, blue ocean below, the rocking boat pulls cares away.
 
 Spring break will end, but the semester is not over yet. I turn over to bronze more once-pale skin.
