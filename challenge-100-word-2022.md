@@ -42,18 +42,22 @@ Okay, I like the sunbathing + depression angle. Let's try a few others.
 
 Realistic characters, emotional themes, depth, moral grappling, conflict.
 
+Narrator is jealous of partner's body --- and the attention it receives --- and tries to sabatoge her for years
+
 ****
 Vitamin D
-<!-- Draft: 94 words -->
-"My parents are dermatologists," I lied. "They say to limit sun exposure. It destroys the skin." You never did like my family's advice.
+<!-- Draft: ? words -->
+"My parents are dermatologists," I lied. "They say to limit sun exposure." You never liked my family; for years, you ignored their advice.
 
-A month before the wedding, I brought it up again. "Your health is important," I lied again.
+A month before the wedding, I was still trying. "Your health is important," I lied again, "Come inside."
 
-You turned to face me, shouted that I never tried to understand, then said the only thing I still hear in your voice.
+You never listend to me.
+
+Instead, you turned to face me, shouting that I never tried to understand, then said the only thing I still hear in your voice.
 
 "Depression kills faster than cancer."
 
-Now I sit, both parents long dead, belly full of beer, looking out the window at women suntanning on the beach.
+Now I sit, parents long dead, belly full of beer, watching women suntanning on the beach.
 
 All I see is you.
 ****
@@ -69,7 +73,7 @@ R: My friends all work hard in school. They'll live in the sun. I'm failing out 
 ****
 A Sun-touched Land
 <!-- Draft: 98 words -->
-Ran the beach this morning. In the gym after dark. Now I sit, suntanning. Blue sky above, blue ocean below, the rock of the boat pulling cares away.
+Ran the beach this morning. In the gym after dark. Now I sit, suntanning. Blue sky above, blue ocean below, the rocking boat pulls cares away.
 
 Spring break will end, but the semester is not over yet. I turn over to bronze more once-pale skin.
 
