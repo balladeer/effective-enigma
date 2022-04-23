@@ -98,9 +98,7 @@ T:
 R:
 
 
-
-So, I signed up for the 100-word contest Tom linked above. Group assignments (which give you a genre + action + word) went out at 11:59pm Friday; I’ve got until midnight Saturday to submit a 100-word drama story.
-
-I threw together two short stories before bed -- I’ll post them in-thread. If folks are interested, I’d love a little directional feedback: which one (if any) appeals to your more, what about it works, and what doesn’t? If you have other feedback, though, I’m all ears!
-
-(Given the genre assigned to me, this isn’t speculative fiction, so if this isn’t the place for such a request, I’m happy to remove it.)
+### Pepper's feedback
+> I did one of their other contests back in November- it was a good exercise, and I got decent feedback on the literal quality of my writing.
+> I think Vitamin D is stronger because it tells more of a story, whereas A Sun-Touched Land is a bit more poetic. That said, I'm not entirely sure of the events in Vitamin D, (what exactly happened between the husband and wife) whereas I am sure of the takeaway in Sun-Touched. I think if you can make the plot progression clearer in Vitamin D, it's the better submission for this particular contest, but if not, then Sun-Touched is a more cohesive piece, although the emotions from it aren't as (comparatively) strong.
+> Hope you make it to round 2!
