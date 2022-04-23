@@ -46,7 +46,7 @@ Narrator is jealous of partner's body --- and the attention it receives --- and 
 
 ****
 Vitamin D
-<!-- Draft: 98 words -->
+<!-- Draft: 97 words -->
 "My parents are dermatologists," I lied. "They say to limit sun exposure." You never liked my family; for years, you ignored their advice.
 
 A month before our wedding, I was still lying. "Your skin is on fire; I should be your light. Come spend time with me, inside."
