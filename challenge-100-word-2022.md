@@ -69,7 +69,7 @@ R: My friends all work hard in school. They'll live in the sun. I'm failing out 
 ****
 A Sun-touched Land
 <!-- Draft: 98 words -->
-Ran the beach this morning. In the gym after dark. Now I sit, suntanning, blue sky above, blue ocean below, the rock of the boat pulling cares away.
+Ran the beach this morning. In the gym after dark. Now I sit, suntanning. Blue sky above, blue ocean below, the rock of the boat pulling cares away.
 
 Spring break will end, but the semester is not over yet. I turn over to bronze more once-pale skin.
 
@@ -99,8 +99,8 @@ R:
 
 
 
-So, I signed up for the 100-word contest Tom linked in #general. I've got until midnight Saturday to submit a 100-word `drama` story.
+So, I signed up for the 100-word contest Tom linked above. Group assignments (which give you a genre + action + word) went out at 11:59pm Friday; I’ve got until midnight Saturday to submit a 100-word drama story.
 
-I threw together two short stories -- I'll post them in-thread. If folks are _interested_, I'd love a little feedback. I'll refine them tomorrow (and probably write another one or two), so I'm just hoping for some directional feedback: which one (if any) appeals to your more, what about it works, and what doesn't?
+I threw together two short stories before bed -- I’ll post them in-thread. If folks are interested, I’d love a little directional feedback: which one (if any) appeals to your more, what about it works, and what doesn’t? If you have other feedback, though, I’m all ears!
 
-(Given the genre assigned to me, this isn't speculative fiction, so if this isn't the place for such a request, I'm happy to remove it.)
+(Given the genre assigned to me, this isn’t speculative fiction, so if this isn’t the place for such a request, I’m happy to remove it.)
