@@ -25,7 +25,7 @@ How would you Kishōtenketsu this/
 
 Intro Develop Twist Reconcile
 
-### Mental Illness
+### Jealousy + Depression
 I: Person angry at partner.
 D: Partner spends too much time sunbathing. Reckless, short-sighted, cancer-causing.
 T: Depression kills faster than cancer.
