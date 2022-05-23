@@ -32,3 +32,9 @@ Alternate frame tale: mind of a sentient weapon, unaware of its location, recall
 2. Settle
 3. Light
 4. Extinguish
+
+
+
+## Resources
+
+[Why wasn't the lost civilization already found?](https://www.youtube.com/watch?v=BHeflRtrYUk&feature=youtu.be)
