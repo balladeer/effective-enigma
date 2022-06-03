@@ -26,6 +26,18 @@ Alternate frame tale: mind of a sentient weapon, unaware of its location, recall
 ### Journal of XXX
 ### Archaeologist (Sentient Weapon)
 
+## Another structure idea
+Structure novel as a Kishotenketsu, with each part a nested Kishotenketsu:
+- 1. Intro
+	- 1.1 Intro
+	- 1.2 Development
+	- 1.3 Twist
+	- 1.4 Reconciliation
+- 2. Development
+	- 2.1 Intro
+	- ...etc
+Result is a 16 chapter book.
+
 # Series Outline
 0. Dragon in the Pit (Prologue Novel)
 1. Disperse
