@@ -410,3 +410,52 @@ I'm not always as neat as Arc, but I'm practicing. I kind of wish he had some mo
 He has white skin, like me and Ipa-ma, and while my hair is dark brown, his is black. I try to keep mine as combed as his, but after I've been outside playing with my friends, mine always has hairs out of place. That's what Arc says all the time. "Out of place." Especially when he's looking at himself in a mirror with a comb in one hand.
 
 My friend Parmil says that he really likes having a dad, but I can't imagine Parmil's dad is better than a big brother like Arc.
+
+## Part 4
+> Choose another character, someone who knows the MC but dislikes, distrusts, or is neutral on them. Write a description from this new character's POV about the MC.
+
+(Robais, 13 years old, describes Arc)
+
+My older brother? Yeah, Arc's fine. He's not very curious -- he spends too much time looking at himself to pay attention to the world. He wants so badly to be a harvester like Estrela-ma, to vote for who leads their little club, or whatever, but it's not for me.
+
+He's kind to Siema, I'll give him that, but it feels like he's less interested in the family now that he's older. Sixteen is basically an adult, so I don't know why he doesn't just leave and go find a room in some other part of UnderPortal to live in, somewhere without a mother as a crew leader.
+
+He keeps his hair too perfect and his clothes too new. He tries too hard to *be* impressive, rather than focusing on *doing* something worthy of awe.
+
+OldHome help me, I don't want to end up like him. The Technoministry has to let me in. I don't want to get stuck chasing nothing like Arc and Estrela-ma. I'm going to do great things for us, for society. There is secret knowledge here that will help us and I'm going to find it.
+
+What? What does he look like? Why does that matter? Fine.
+
+Arc's tall and skinny. Like....really tall. Black hair, super pale skin, unlike Estrela-ma and I. Probably the palest of the three white people in my family. His hair always looks like its glued to his head, like its a shell you could break with a good hit. He doens't smile much; there's always something out of place to scowl at.
+
+I predict he'll die an old, lonely harvester, without anyone to love him.
+
+
+## Retro
+- Writing Robais as a spunky young teen is fun.
+
+I moved back three years, which
+
+TASK: add new exercises:
+- same character, play all three roles (self, someone they like, someone they don't)
+- Picture game (with people) but multiple zooms
+	+ start super zoomed out
+	+ zoom in once
+	+ zoom in to one place w/ extreme details
+
+TASK: 
+- Gather exercises from this workshop and add to writing exercise zoo
+
+
+Questions from me:
+-  When would you seek out a sensitivity reader?
+	- Once you've got a draft, to find the things you can't see
+	- Earlier for specific issues that worry you
+		+ the more core the issue, the earlier you engage
+
+
+- Q1: Intro to 'Lesbian Romance for Women'. Any recommendations?
+- Q2: Nonbinary, middle-grade, 1930s.
+	+ How to describe a nonbinary character when the child POV is specifically trying to gender the individual.
+
+- 
