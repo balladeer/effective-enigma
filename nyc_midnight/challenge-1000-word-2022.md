@@ -292,7 +292,7 @@ Florence snorted as she sat up. "Hang this on the fridge," she said as she rumma
 
 Florence, carrying two food bowls in each hand, followed Pharoh to the feeding room.
 
-"You want me to stay here a whole week?" Florence walked mouth open and wide-eyed, shocked her stepfather would even suggest it. She was more of a book person than a dog person. Dogs were fine, but other than last summer when she worked here before seventh grade, she tended not to spend much time with them.
+"You want me to stay here a whole week?" Florence walked mouth open and wide-eyed, shocked her stepfather would even suggest it. She was more of a book person than a dog person. Dogs were fine, but she'd rather groom them than play with them.
 
 "Just until Saturday, when you were due home. Your mother and I expected you'd be in the mountains this week, so we made evening plans."
 
@@ -334,11 +334,75 @@ And yet...the room was dark. The building groaned. Outside in the yard, buzzing 
 
 *Ranchers gain respect for themselves and others*
 
-"Forence?"
+Her pillow, warm and soft, lept out from under her with a bark, leaving her head to fall onto the concrete below. Her pillow (an Alaskan Malamute named Snuggles) sat in front of the kennel door, tail wagging at the thought of food and playtime.
 
-Her pillow, warm and soft, lept out from under her with a bark, leaving her head to fall onto the concrete below.
+Adult voices in the waiting room broke through the groggy fog on Florence's brain. Her senses sharpened as she realized this was not a morning dropoff. The words were too animated, too consistent.
 
-Her father's face contorted as he looked down at her through the metal bars of the kennel door. Her pillow (an Alaskan Malamute named Snuggles) sat nearby, tail wagging at the thought of food and playtime.
+Florence sat up.
+
+She was surrounded by blankets, a pile at the back of the small concrete stall she'd slept in. Long white and gray dog hair coated her face and clothes.  Light under the door to the feeding room hinted at morning sun.
+
+She wanted no part of the waiting room drama, especially like this. She yawned and stretched her arms toward the ceiling.
+
+Then the door knob to the waiting room turned. The boarded dogs all began barking.
+
+Florence stifled a gasp, then crumpled down to the floor. She tossed a pair of blankets over her body, hoping the Malamute's bed would hide her. She shut her eyes tight as if it would help.
+
+"Hey, quiet. Quiet!" Her father.
+
+Peeking out from beneath her blankets, Florence saw two pairs of shoes from under the kennel door.
+
+"Pharoh, I need you to do this for me. He's a VIP at the Consulate and I've already promised him you could have the dogs ready in time for the gala." Florence clenched her jaw at hearing her mother's voice.
+
+"I mean, maybe, but what about our plans, Stacey?" A hint of sadness tinged her father's words.
+
+"Pharoh, sometimes plans change."
+
+With a sigh, Pharoh aquiesced. "Fine, fine. I'll get them groomed. I used to work at the Embassy, you know."
+
+"Pharoh, love, that work isn't relevant here. I'll let my VIP know and have them unload the dogs."
+
+When the door latched, Florence sat up. Drawn by her movement, her father's face contorted as he looked down at her through the metal bars of the kennel door.
+
+"What are you doing in there?" he hissed.
+
+"I had to sleep somewhere."
+
+"Nevermind, get back down. Stay hidden. Snuggles, lie down."
+
+Florence under many blankets and one large, heavy dog, stayed hidden as a parade of tiny white legs paraded into through the kennel.
+
+By the time her father had concluded whatever business he had in the waiting room, Florence was coated in sweat, overheating but afraid to move.
+
+...
+Fifteen royal dogs, from Pekingese and Japanese Chin to Shih Tzu and English Toy Spaniels waited on leash and in a line, waiting for their handler to return.
+
+Three black SUVs pulled up. A white man in a fancy black suit came in, followed by three more in sturdy suits. Every tail wagged at his arrival. "Ah, there they are, looking better than ever. How are you doing, Bailey? And Muffin? Chip? Ginger? You all look so clean and shiny." He picked one of the Shih Tzus up and smelled her. "Ah, and your smell so fresh! Their Magesties will be so please."
+
+The man turned to Pharoh. "Thank you, Mr. Dog Washer. My associate at the Consulate was right, you were up to the task. Now, if you'll excuse me, we have a gala to attend." He turned away before Pharoh could respond, shouted "Load them up!" and kicked the front door open.
+
+Moments after the SUVs left, the front door opened once more. Florence's mother, Stacey, walked in with a smile on her face. Florence froze. 
+
+Stacey walked up to Pharoh and hugged him. "Thank you, Pharoh. That meant a lot to me."
+
+Her father's face softened into a smile. "I couldn't have done it alone." He directed Stacey's attention to the corner wher Florence was sitting.
+
+Concern filled her mom's face. Florence wished she were anywhere else.
+
+"Florence, honey, what happened? Why aren't you at camp right now?"
+
+Florence grimaced, then took a deep breath and looked at her mother.
+
+"Plans change?"
+...
+
+
+
+
+
+
+
+
 
 Outside, sitting under the shade of the large white oak tree in the yard, sat a big brown boxer, resting after its recent meal. Hanging from its collar was a bowl-shaped tag with the word SHREDDER embossed across its face.
 
