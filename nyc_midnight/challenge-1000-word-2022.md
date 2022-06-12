@@ -77,6 +77,8 @@ A: Adult consulate employee
 B: Teen-age employee at a dog daycare and spa
 C: pre-teen child of A, friends w/ B.
 
+Kicked out of summer camp three days early, sophomore Florence Grebe returns to her stepfather's Doggy Daycare to avoid her mother's disappointment for a few hours longer. Instead, her stepfather hatches a plan to hide Florence with the dogs while they fake a successful summer camp.
+
 ## Alternates to keep around
 - A dog daycare next to a consulate. A diplomat distraught that their kids' report card was included in the pile of 'to be discretely destroyed' paper sent next door. (report card is inciting incident, but not sure what's next)
 - Two children try to forge a better report card because their parent promised 'big money' if they got good grades. (No real tie to the doggy daycare)
@@ -249,6 +251,100 @@ Florence sighed. "Mind if I stay here until dinner? I don't want to face mom's d
 	+ black hair, kept short both on top and on his chin
 
 
+# Draft 5
+<!-- Because I can... -->
+<!-- Just get the draft down. Can't clean it up until you have the bones. -->
+## Plan
+-  [ ] Get the first words down
+-  [ ] Run through ProWriting Aid
+-  [ ] Physical descriptions
+-  [ ] Run by a person for feedback?
+-  [ ] Submit _something_
+	+  [ ] pandoc
+	+  [ ] validate against requirements
+	+  [ ] submit
+-  [ ] Work until you're done.
+-  [ ] Final submission
+
+## Hmm
+<!-- Write the parts you want, then stitch them together. -->
+
+
+*At West Platte Ranch, we commit to providing every camper an experience for a lifetime*
+
+"Really, Florence? Expelled in a day?"
+
+Florence Grebe (curly brown hair on freckled white skin, like her mother; fourteen years old, unlike her mother) sat in the waiting room of *Dogsome Doggy Daycare and Spa*, her stepfather's latest business, slouched between two massive cloth bags, her supplies for the week away.
+
+Her stepfather, Pharoh, paced from the kitchen (where he was filling twenty-seven individual food bowls) and the front blinds, where he peeked through, looking across the strip mall's parking lot to the Consulate on the far side.
+
+It took Florence a dozen passes, but she worked up the courage to ask, "Are you mad?"
+
+Pharoh paused on his way back to the kitchen, a small smile beneath narrow, confused eyes. He wiped some shining sweat from forehead. "I don't care why you were expelled from summer camp. But I promised your mother this camp was a good idea, and she's expecting a report card we can hang on the fridge."
+
+Florence snorted as she sat up. "Hang this on the fridge," she said as she rummaged for a thick piece of white paper, her report card from summer camp. Six categories, all marked DNF (did not finish). Angry handwriting explained the situation in more words than necessary, and a big red stamp, applied with such gusto that it left an imprint in the middle of the page, screamed *EXPELLED* in think red ink.
+
+"Mom's going to flip when she sees this."
+
+"She's not going to see it." Pharoh spoke with the calm of a man who had yet to consider his plan.
+
+*Five fun-filled days await your loved one at our pre-teen Adventure Camp.*
+
+Florence, carrying two food bowls in each hand, followed Pharoh to the feeding room.
+
+"You want me to stay here a whole week?" Florence walked mouth open and wide-eyed, shocked her stepfather would even suggest it. She was more of a book person than a dog person. Dogs were fine, but other than last summer when she worked here before seventh grade, she tended not to spend much time with them.
+
+"Just until Saturday, when you were due home. Your mother and I expected you'd be in the mountains this week, so we made evening plans."
+
+Outside, the most astute dogs, those that knew feeding time was imminent, had begun crowding the glass door, barking and pawing for attention.
+
+"What kind of plans?"
+
+Pharoh stumbled through several seconds of incoherent noise before settling on, "Just...plans."
+
+"Look," continued Pharoh, "I need you to arrive home on Saturday with a smile on your face, sun on your skin, and a report card for the fridge. Play along and your mom doens't even need to know about your expulsion. How's that sound?"
+
+Florence nodded. Maybe it wouldn't be so bad.
+
+*Since our founding in 1989, experience has been best teacher.*
+
+Pharoh took her report card and disappeared into the back office. "I used to work at the Embassy" was all he said as he closed the door, leaving Florence to look after the dogs in his care.
+
+The first day passed without issue. She walked and petted and fed and cleaned up after more dogs than reasonable (her stepfather was between employees).
+
+It wasn't until her father was packing up to leave for the night that the next phase of the plan became apparent.
+
+"Where am I supposed to sleep?"
+
+"Anywhere but the waiting room, please. Maybe the grooming tables?"
+
+"Dad!"
+
+"What? You're all packed for a week away! Just grab some blankets or an extra dog bed and find a place to sleep. I'll be back in the morning. Remember: you're still at summer camp."
+
+With that, he left Florence alone.
+
+Only twelve dogs were boarding overnight, but they more than filled the ten kennels that the *Dogsome* had available. And they were not quiet sleepers.
+
+The kitchen was too cold. That bathroom too cramped. She ended up where her father suggested: sleeping on a pile of blankets atop the shiny silver surface of a grooming table.
+
+*Expand the limits of your imagination*
+
+And yet...the room was dark. The building groaned. Outside in the yard, buzzing things with claws and fangs tapped on the glass, asking to get in. Florence tried to ignore them, to ignore the growing worry that they were already inside, crawling on a hundred legs up the table and under the covers with her.
+
+*Ranchers gain respect for themselves and others*
+
+"Forence?"
+
+Her pillow, warm and soft, lept out from under her with a bark, leaving her head to fall onto the concrete below.
+
+Her father's face contorted as he looked down at her through the metal bars of the kennel door. Her pillow (an Alaskan Malamute named Snuggles) sat nearby, tail wagging at the thought of food and playtime.
+
+Outside, sitting under the shade of the large white oak tree in the yard, sat a big brown boxer, resting after its recent meal. Hanging from its collar was a bowl-shaped tag with the word SHREDDER embossed across its face.
+
+
+
+
 # Draft 2
 
 ## Intro: 200 words
@@ -370,18 +466,6 @@ What has to be true for a cheerful ending?
 
 
 # Draft 4
-<!-- Just get the draft down. Can't clean it up until you have the bones. -->
-## Plan
--  [ ] Get the first words down
--  [ ] Run through ProWriting Aid
--  [ ] Physical descriptions
--  [ ] Run by a person for feedback?
--  [ ] Submit _something_
-	+  [ ] pandoc
-	+  [ ] validate against requirements
-	+  [ ] submit
--  [ ] Work until you're done.
--  [ ] Final submission
 
 ## Intro
 <!-- Florence works at the Dogsome Doggy Daycare, keeping a low-profile. -->
