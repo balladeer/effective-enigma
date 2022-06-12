@@ -166,7 +166,7 @@ A dog daycare next to a consulate. A diplomat distraught that their kids' report
 
 Someone in a hurry brings cats to the dog park.
 
-I need to ... and this report card is my ticket!
+I need to #blank# and this report card is my ticket!
 
 Give me that report card! I promised your mother your grades would improve, not that you'd be smarter!
 
@@ -263,3 +263,94 @@ Pharoh ignores the note and scans the report card.
 
 > Not to me.
 
+
+# Draft
+<!-- 3rd-person omniscient. The Storyteller's voice -->
+
+<!-- PHYS: Florence - opportunity -->
+Disguised under four layers of mountain gear, Florence kept her face away from the consulate on the other side of the parking lot.
+
+The sagging front door of *Dogsome Doggy Daycare* rang with shallow *thwaps* under her knocking hand.
+
+"Coming!" came a hurried voice.
+
+The door cracked open.
+
+"Name?" asked the voice inside.
+
+"Florence," whispered Florence.
+
+"Huh...not dog by that name."
+
+"Dad, its me. Florence."
+
+<!-- PHYS: Pharoh - opportunity -->
+Her father's balding head peeked out, eyes widening as he took in the sight of his step-daughter, bundled up like a toddler in the winter, with two large green cloth sacks on either side of her.
+
+His stepdaughter was supposed to be at summer camp, not standing outside his business, in full view of the consulate across the parking lot.
+
+Pharoh Taylor pulled open the door and hurried setpdaughter inside.
+
+"Leave the bags, I'll get them!"
+
+With two large bags and one small daughter inside, Pharoh peeked thorugh the blinds next to the door, looking for movement.
+
+<!-- A potential theme: "Removing excess layers" -->
+"Do you think she saw?" asked Florence as she removed her excess layers.
+
+"No, no. Let's hope not." Pahroh withdrew from the window.
+
+The two stood in the front office and doggy-drop off. The low ceiling's speckled white tiles were stained yellow and brown from water damage.
+
+"What are you doing here? Summer camp isn't over for another three days!"
+
+Florence dropped into the cheap plastic chair beside the dry aquarium that decorated the lobby.
+
+"Not for me. Apparently there are rooms you're not allowed to enter."
+
+Florence sighed. "Mind if I stay here until dinner? I don't want to face mom's disappointment."
+
+"Neither do I."
+
+"What?"
+
+"I told her camp would be good for you. That you'd come back with a report card worthy of the fridge."
+
+"Why'd you promise that?"
+
+"...I said I'd help you earn it."
+
+"Well you didn't!"
+
+"I didn't...yet. We still have three days."
+
+"I got kicked out!"
+
+"Irrelevant! I promised your mother a report card for the fridge."
+
+
+# Draft 2
+
+## Intro: 200 words
+
+Florence returns from camp a day early.
+Pharoh schemes to keep her at the doggy daycare until the weekend.
+
+## Develop: 300 words
+
+Pharoh tries to forge a good report card.
+
+"What about the original?" asked Florence.
+
+"Never mind that."
+
+In the yard, a yellow lab that Florence thought had an owner panted beneath the large white oak. A heart-shaped slice of metal dangled from its collar, the word SHREDDER embossed across its face.
+
+## Twist: 400 words
+
+Stacey stops by with the "Chief of their Majesties' Furred Children", who drops off fifteen dogs to board overnight and receive the spa treatment in the morning.
+Florence hides in the kennels and ends up spending the night with too many dogs.
+
+## Reconcile: 100 words
+
+Florence and Pharoh spend the morning grooming the dogs, who emerge in great shape, much to the CotMFC's delight.
