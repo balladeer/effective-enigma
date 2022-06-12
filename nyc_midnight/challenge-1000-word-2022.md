@@ -13,16 +13,14 @@ end: "2022-06-12"
 NYC Midnight's 100-word challenge, 2022.
 
 ## Genre definition: COMEDY
+
 From [the nycmidnight website](https://www.nycmidnight.com/genres)
 
 A story that typically maintains a light, satirical, or familiar tone and features amusing characters and situations. Humor is the fundamental driving force. The word “comedy” comes from the Greek word komos, which means revelry or merry-making--and indeed, comedy has its origins in ancient Athens, where it was used in celebrations dedicated to the Greek god of wine and revelry. Subgenres of comedies include screwball comedies, which derive humor from improbable situations and characters, black comedies, which have darker undertones, and romantic comedies, which focus on the antics of lovestruck characters. Common elements: love and sex, stock characters and situations, everyday speech, puns, and cheerful endings. Comedy books include Douglas Adams’s The Hitchhiker’s Guide to the Galaxy and Zadie Smith’s The Autograph Man. Comedy films include This is Spinal Tap (1984) and Anchorman (2004).
 
 ## Brain Dump
 
-Interesting bits from Fiasco's *Tales from Suburbia*
-
-What would this prompt look like as a Wes Anderson film?
-- maybe silly adult runs a hidden business where they have the dogs eat children's homework / report cards as a scheme to...
+Characters try (and sometimes fail) to remain poised in the face of disorder.
 
 This feels like a Fiasco game, so let's lean in on that:
 - Relationships, needs, locations, and objects.
@@ -34,6 +32,8 @@ Let's generate some relationships and needs and see where that takes us.
 Hell, if you Kishōtenketsu it, this reads a lot like a Fiasco story, Tilt and all.
 
 
+## Silly Ideas
+
 - An event nearby overbooks the dog day care, resulting in _way too many dogs_.
 	+ Showing up from out of town last minute, with a pile of dogs
 - Dogs barking making it hard to hear each other.
@@ -43,75 +43,33 @@ Hell, if you Kishōtenketsu it, this reads a lot like a Fiasco story, Tilt and a
 - A trashcan full of dog poop
 - A hole in the fence
 - The taunting cats
+- Destroying the original report card because "they didn't think it would be so hard" to make a forgery.
 
 ### More stuff
+
 - Overconfidence
 - Poorly timed coincidences
 - Excess
 - Hubris
 
-Destroying the original report card because "they didn't think it would be so hard" to make a forgery.
+**Report Card**: a teacher's written appraisal of a pupil's work, progress and conduct
+- a school teacher to an elementary student
+- a dog trainer to a dog('s owner)
+- a (demeaning) report from a diplomat to the consulate's staff
 
-### Some tilts:
-- Somebody is watching, waiting for their moment
-- You thought it was taken care of but it wasn't
-- A showdown 
-- A well-meaning stranger intervenes
-- A frantic chase
+### Fiasco Setup
 
-- Someone loses their nerve
-- Ill-considered violence
-- "I love you"
-- Impotent rage
+Persons Florence, Pharoh, and Stacey
 
-
-### Fiasco Setup 1
-Persons A, B, and C
-
-AB
-- Relationship: Family ->  Cousins
+Florence + Pharoh
+- Relationship: Stepchild and parent
 - Location: A dog daycare facility
 
-BC
-- Relationship: Family -> Siblings
-- Object: A report cart
+Pharoh + Stacey
+- Relationship: Current Spouses
+- Need: To get respect through a re-written *report card*
 
-CA
-- Relationship: Family -> Parent + Step Child
-- Need: To Get Rich...through ripping off some drug people
-
-Two adult cousins run a dog daycare facility. One of them is trying to get rich with their step-child by ripping off some drug people while the step-child and their sibling...
-
-### Fiasco Setup 2
-Persons A, B, and C
-
-AB
-- Relationship: Work -> Professional + Client
-- Location: A dog daycare facility
-
-BC
-- Relationship: Community -> Law (e.g. Cop and Volunteer)
-- Need: To get away...from your shameful past
--
-CA
-- Relationship: Romance -> Current Lovers
-- Object: A Report Card
-
-### Fiasco Setup 3
-Persons A, B, and C
-
-AB
-- Relationship: Service worker and client
-- Location: A dog daycare facility
-
-BC
-- Relationship: Small time vandals and ne'er-do-wells
-- Need: To get rich through a re-written *report card*
-- Need: To get respect from your friends by humiliating a cop
-- Need: To get respect from yourself by standing up for yourself at last
-- Need: To get laid by anonymous party people, because why not?
-
-CA
+Stacey + Florence
 - Relationship: Parent and Child
 - Object: A Report Card
 
@@ -119,57 +77,11 @@ A: Adult consulate employee
 B: Teen-age employee at a dog daycare and spa
 C: pre-teen child of A, friends w/ B.
 
-C, a pre-teen who struggles in school, hatches a plan w/ B to re-write C's report card, as A has promised 'big money' for every good grade that C earns.
+## Alternates to keep around
+- A dog daycare next to a consulate. A diplomat distraught that their kids' report card was included in the pile of 'to be discretely destroyed' paper sent next door. (report card is inciting incident, but not sure what's next)
+- Two children try to forge a better report card because their parent promised 'big money' if they got good grades. (No real tie to the doggy daycare)
 
-
-### Fiasco Setup 4
-Persons A, B, and C
-
-AB
-- Relationship: Former lovers
-- Location: A dog daycare facility
-
-BC
-- Relationship: Organized crime figure and wannabe
-- Need: To get laid to prove a point
-- Need: To get lost in a harmless fantasy
-
-CA
-- Relationship: Parent and step-child
-- Object: A Report Card
-
-
------
-
-A cat, a dog, and the doggy day care they live in.
-- a loyal dog eats their kid-owner's report card because it causes them stress. After learning what they've done from the cat, the two of them attempt to make things right in the dead of night.
-
-All the dogs at the daycare run a whispers network to hlep their little humans by eating the semester report cards.
-
-----
-
-The easy stuff
-- dogs eat report card
-	+ Dogs earn report card, children eat it
-
-
-- Isle of Dogs: doggy daycare is treated as wasteland / war zone. Humor in the extremes.
-
-
-A dog daycare next to a consulate. A diplomat distraught that their kids' report card was included in the pile of 'to be discretely destroyed' paper sent next door.
-
-**Report Card**: a teacher's written appraisal of a pupil's work, progress and conduct
-- a school teacher to an elementary student
-- a dog trainer to a dog('s owner)
-- a (demeaning) report from a diplomat to the consulate's staff
-
-
-Someone in a hurry brings cats to the dog park.
-
-I need to #blank# and this report card is my ticket!
-
-Give me that report card! I promised your mother your grades would improve, not that you'd be smarter!
-
+## Blarg
 Step-father runs the dog daycare.
 Daughter brings bad report card.
 Step father sets about to forge a new copy, leaving child to run the dog day care.
@@ -179,18 +91,9 @@ What goes wrong?
 - Daughter goes to door, comes back with twelve dogs on a leash, says a man dropped them off and left.
 	+ Not enough kennels for the dogs.
 
-
-Rewrite the report card.
-
-
-Alright Zachary, do you want to go with stepfather + daughter, or two children.
-
-
-> Aren't you in calligraphy? 
+> Aren't you in calligraphy?
 > Calligraphy doesn't mean I mimic other people!"
 
-
-Characters try (and sometimes fail) to remain poised in the face of disorder.
 
 Step-child returns from summer camp, dropped off at step-father's doggy day care, where they will spend the afternoon before mother finishes her work at the consulate next door.
 
@@ -329,9 +232,29 @@ Florence sighed. "Mind if I stay here until dinner? I don't want to face mom's d
 "Irrelevant! I promised your mother a report card for the fridge."
 
 
+# Reference
+## One-Driving Issue
+- Florence: anxiety about acceptance
+- Pharoh: struggles with follow-through
+- Stacey: overworked and stressed
+## Physical
+- Florence:
+	- rectangular face like her mom
+	- curly brown hair down her back
+	- white skin with many freckles
+- Pharoh:
+	+ circular face on a circular body
+	+ a well-maintained beer belly despite working with dogs all day
+	+ red-brown skin, the color of the sun-baked earth in the yard the dogs play in
+	+ black hair, kept short both on top and on his chin
+
+
 # Draft 2
 
 ## Intro: 200 words
+
+<!-- Setup 'too many dogs' -->
+> Sorry, we're full.
 
 Florence returns from camp a day early.
 Pharoh schemes to keep her at the doggy daycare until the weekend.
@@ -348,9 +271,175 @@ In the yard, a yellow lab that Florence thought had an owner panted beneath the 
 
 ## Twist: 400 words
 
+<!-- Callback 'too many dogs' -->
 Stacey stops by with the "Chief of their Majesties' Furred Children", who drops off fifteen dogs to board overnight and receive the spa treatment in the morning.
 Florence hides in the kennels and ends up spending the night with too many dogs.
 
 ## Reconcile: 100 words
 
 Florence and Pharoh spend the morning grooming the dogs, who emerge in great shape, much to the CotMFC's delight.
+
+# Draft 3
+
+"Sorry, w'ere full todya. You'll need to make an appointment."
+
+"No, it's Florence."
+
+"florenct? Wd don't have a dog  by that name today."
+
+"No, dad. It's ME. Florence" She spoke through gritte dteeth, as if raising her voice might alert her mother on the othersid eof the parking lot.
+
+The sagging metal door swung opoen and her father, a round face on a round body, gaped out.
+
+"Florence?! Get inside, come on."
+
+Inside, Florence removed the many layers of coat ashe had been wearing to hide her appearance.  Her father peered through teh blinds at the consulate on the other end of the parking lot, as if he had telescoping eyes capable of seeing that far.
+
+When no activity emerged, he withdrwe and truend to face his setpdaugher.
+
+"What are you doing here? You'er supposed to be at---"
+
+"I got kicked out. Apparently there are rooms at campy ou're not supposed to enter."
+
+Pharoh wiped a hand down his face.
+
+"I had them drop me off here because I didn't want to face mom."
+
+A curious squirrel elicited a rumbling ruckus of barks from the dozen dogs playing in the yard behind the building.
+
+"Your mother and I have dinner plans this evening. You're not supposed to be home until tomorow. She's going to be so disappointed."
+
+"Wait, dad, why are you biting your nails?" Pharoh's nails never needed clipping as chewed them when he was nervous or stressed.
+
+"I promised Stacey that this camp would be good for you, that you'd come back...better."
+
+"It was a week---"
+
+"---four days."
+
+"How much did you think it would change me?"
+
+"Look, I promised your mother a report card worthy of the fridge."
+
+"Lol, so much for that. Here, stick this on the fridge." 
+
+Florence slid a piece of thick cardstock over to her stepfather. Six categories, all DNF (did not finish). Angry handwriting explaining the situation in more words than prudent. And a big red stamp applied with such gusto that it left an imprint in the middle of the page: EXPELLED. Mr. Mathiasen (the head counselor) had a great deal of frustrations in his life, and that stamp had let him express just one.
+
+"Mom's going to flip when she sees this."
+
+"She's not goin to see this," Pharoh stated flatly, staring through the page, through Florence. His eyes focused. "I promised her a report card worthy of the fridge. That's what she's getting."
+
+Pharoh, report card in hand, steppd past Florence, who stood up to follow. "You'll need to spend the night here, of course. She can't know that you were expelled."
+
+"Wait, dad, what?"
+
+Pharoh stopped at the door to the back office and turned to Florence, hand on the knob.
+
+"You'll stay here and help care for the dogs. Out of sight. I'll deal with the report card."
+
+He slipped into the office, door closing before Florence could follow.
+
+"What do you mean you'll deal with the report card?"
+
+"Don't worry about it! I used to work at the Embassy!"
+
+Florence huffed. Her father said that whenever he was about to do something stupid.
+
+# Draft 4 - planning
+I just wrote 500 words and barely finished the intro. Let's skip the 'arrival' bit and see if we can get straight to the silliness.
+
+Florence sees Stacey arrive. Goes to get Pharoh, who is working on the forgery.
+> S: what took you so long?
+
+- Intro: Florence works at her father's doggy daycare.
+- Develop: Her mother shows up with a VIP from the consulate next door and an avalanche of dogs to care for. Florence spends the night in the kennels.
+- Twist: She was expelled from summer camp and is hiding from her mother for the day while her father forges a report card.
+- Reconciliation: Florence and Pharoh
+	+ > F: I didn't want to spend the night in the kennels.
+	+ > S: What? Pharoh! Was that your plan?
+
+What has to be true for a cheerful ending?
+- Stacey impresses the VIP
+	+ All the dogs are healthy and groomed.
+		* "What about dinner?" "Plans change." <- callback opportunity.
+- Pharoh impresses Stacey by caring for the VIP's dogs and
+- Florence feels accepted and loved by her mother.
+	+ Stacey sees Florence, asks why she isn't at summer camp.
+	+ Florence, covered in scrapes and bandages from grooming dogs, smiles. "Plans change."
+
+
+
+# Draft 4
+<!-- Just get the draft down. Can't clean it up until you have the bones. -->
+## Plan
+-  [ ] Get the first words down
+-  [ ] Run through ProWriting Aid
+-  [ ] Physical descriptions
+-  [ ] Run by a person for feedback?
+-  [ ] Submit _something_
+	+  [ ] pandoc
+	+  [ ] validate against requirements
+	+  [ ] submit
+-  [ ] Work until you're done.
+-  [ ] Final submission
+
+## Intro
+<!-- Florence works at the Dogsome Doggy Daycare, keeping a low-profile. -->
+<!-- She rejects a late drop-off through the door. Too many dogs already. -->
+<!-- Pharoh is unavailable in the back office. -->
+
+*Dogsome Doggy Daycare*. Florence liked the name, even if she cringed everytime her stepfather said it out loud. He was in the back office saving her tail, which left Florence to run the business for the morning.
+
+Another late arrival, this one a pair of small black dogs (Belgian Schipperkes) hopped down from the sedan with their owner.
+
+"I'm sorry," said Florence through the crack in the sagging metal door, "We're all full today. Make a booking in advance next time."
+
+She swung the door closed before the woman could finish saying "I did!"
+
+After the Shipperkes left, Florenced peeked through the blinds, eyeing the Consulate on the far side of the strip mall's parking lot. She'd made it through two hours without being spotted.
+
+Seventy to go.
+
+## Develop
+<!-- Florence sees her three nice SUVs pull up to the consulate, then her mother exits and gets inside. -->
+At noon, after feeding all twenty seven current doggy-residents, cleaning up the yard, and doing anything to keep her mind off the weekend, Florence snuck another peek across the lot. Three black SUVs sat in a line, waiting to deposit or consume someone important. A sharp black suit emerged from the building, followed by 
+
+<!-- Florence watches with relief: her mother must be attending a convention. -->
+
+
+<!-- Relief turns to dread when the SUVs just cross the parking lot, stopping in front of the doggy daycare. -->
+
+<!-- Florence panics and locks the front door, begging her father to come out and meet the SUVs + her mother, who work at the consulate. -->
+
+<!-- POV switch to Pharoh, who emerges and deals with the people at the door, convincing Stacey's VIP that he was tardy because he was caring for a dog. -->
+
+<!-- Stacey politely demands that Pharoh care for the many, many dogs of the VIP's employers, who wants them boarded for the night and groomed for 'an event' the next day. -->
+
+<!-- Stacey is all polite indifference, making promises as if Pharoh is a trusted business partner and not her husband. Pharoh plays along. (callback to "I used to work at the Embassy")-->
+
+<!-- Pharoh takes Stacey back to the hallway outside the office. "What about dinner tonight? We made plans!" "Plans change. Please, I need this buffoon to be happy, and groomed dogs are how that happens." "I'll have them ready in the morning -- though they'll be exhausted."  "All I need is for them to look good." -- setup for revelation about Pharoh making the report card 'look good'.-->
+
+## Twist
+<!-- POV switch to Florence, who is admiring the forged report card the Pharoh is working on. -->
+
+<!-- Her father calls her out of the office, each hand full of leashes. Over a dozen tiny dogs -- toy breeds like Pekingese, Japanese Chin, Shih Tzu, and English Toy Spaniels gathered around his shins -- along with a single Scottish Deerhound up to his chest. -->
+
+<!-- He asks if she still remembers how to groom a dog. Of course...she worked here for many summers; she's the reason Pharoh and Stacey met. -->
+
+<!-- "Well, looks like you won't be sleeping in the kennels, because we've got fifteen dogs to groom for and important event tomorrow morning." 
+
+"Can't be that important if they're having a dog spa next to the consulate do the work. It's not even at the embassy?"
+-->
+
+<!-- "What about my report card? My expulsion from summer camp?" -->
+
+<!-- "Help me pull this off, and I don't think any of that will matter." -->
+
+## Reconciliation
+<!-- They spend the night grooming dogs, one at a time, letting the others sleep wherever they choose. -->
+
+<!-- In the morning, VIP returns w/ Stacey. Pharoh parades the dogs out, introduces his assisstant, 'Angela', to VIP. Stacey glares, but plays along, thanking Pharoh and Angela for their quick turnaround. VIP is thrilled. -->
+
+<!-- Stacey hangs back ('get the invoice'). Quietly asks what Florence is doing home from summer camp. -->
+
+<!-- Florence smiles sheepishly and says, "Plans change." -->
