@@ -267,10 +267,10 @@ Florence sighed. "Mind if I stay here until dinner? I don't want to face mom's d
 -  [ ] Work until you're done.
 -  [ ] Final submission
 
-## Draft 6
+# Draft 6
 
-### Intro
-*At West Platte Ranch, we commit to providing every camper the experience of a lifetime*
+## Intro
+*At West Platte Ranch, we provide every camper the experience of a lifetime*
 
 "Really, Florence? Expelled in a day?"
 
