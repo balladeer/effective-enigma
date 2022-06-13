@@ -255,7 +255,8 @@ Florence sighed. "Mind if I stay here until dinner? I don't want to face mom's d
 <!-- Because I can... -->
 <!-- Just get the draft down. Can't clean it up until you have the bones. -->
 ## Plan
--  [ ] Get the first words down
+-  [x] Get the first words down
+-  [ ] Reread and make notes
 -  [ ] Run through ProWriting Aid
 -  [ ] Physical descriptions
 -  [ ] Run by a person for feedback?
@@ -266,53 +267,52 @@ Florence sighed. "Mind if I stay here until dinner? I don't want to face mom's d
 -  [ ] Work until you're done.
 -  [ ] Final submission
 
-## Hmm
-<!-- Write the parts you want, then stitch them together. -->
+## Draft 6
 
-
-*At West Platte Ranch, we commit to providing every camper an experience for a lifetime*
+### Intro
+*At West Platte Ranch, we commit to providing every camper the experience of a lifetime*
 
 "Really, Florence? Expelled in a day?"
 
-Florence Grebe (curly brown hair on freckled white skin, like her mother; fourteen years old, unlike her mother) sat in the waiting room of *Dogsome Doggy Daycare and Spa*, her stepfather's latest business, slouched between two massive cloth bags, her supplies for the week away.
+Florence Grebe (curly brown hair on freckled white skin, like her mother) sat in the waiting room of *Dogsome Doggy Daycare and Spa*, her stepfather's latest business, slouched between two massive cloth bags, her supplies for the week away.
 
 Her stepfather, Pharoh, paced from the kitchen (where he was filling twenty-seven individual food bowls) and the front blinds, where he peeked through, looking across the strip mall's parking lot to the Consulate on the far side.
 
 It took Florence a dozen passes, but she worked up the courage to ask, "Are you mad?"
 
-Pharoh paused on his way back to the kitchen, a small smile beneath narrow, confused eyes. He wiped some shining sweat from forehead. "I don't care why you were expelled from summer camp. But I promised your mother this camp was a good idea, and she's expecting a report card we can hang on the fridge."
+Pharoh paused on his way back to the kitchen, a small smile beneath narrow, confused eyes. He wiped some shining sweat from forehead. "I don't care why they expelled you from summer camp. But I promised your mother this camp was a good idea, and she's expecting a report card we can hang on the fridge."
 
-Florence snorted as she sat up. "Hang this on the fridge," she said as she rummaged for a thick piece of white paper, her report card from summer camp. Six categories, all marked DNF (did not finish). Angry handwriting explained the situation in more words than necessary, and a big red stamp, applied with such gusto that it left an imprint in the middle of the page, screamed *EXPELLED* in think red ink.
+Florence snorted as rummaged through her backpack. "Hang this on the fridge," she said, handing over a thick piece of white paper, her report card from summer camp. Six categories, all marked DNF (did not finish). Angry handwriting explained the situation in more words than necessary, and a big red stamp, applied with such gusto that it left an imprint in the middle of the page, screamed *EXPELLED* in thick red ink.
 
 "Mom's going to flip when she sees this."
 
-"She's not going to see it." Pharoh spoke with the calm of a man who had yet to consider his plan.
+"She won't see it." Pharoh spoke with the calm of a man who had yet to consider his plan.
 
 *Five fun-filled days await your loved one at our pre-teen Adventure Camp.*
 
 Florence, carrying two food bowls in each hand, followed Pharoh to the feeding room.
 
-"You want me to stay here a whole week?" Florence walked mouth open and wide-eyed, shocked her stepfather would even suggest it. She was more of a book person than a dog person. Dogs were fine, but she'd rather groom them than play with them.
+"You want me to stay here a whole week?" Florence walked, mouth open and wide-eyed, shocked her stepfather would even suggest it. She was more of a book person than a dog person. Dogs were fine, but she'd rather groom them than play with them. At least then they smelled nice.
 
 "Just until Saturday, when you were due home. Your mother and I expected you'd be in the mountains this week, so we made evening plans."
 
-Outside, the most astute dogs, those that knew feeding time was imminent, had begun crowding the glass door, barking and pawing for attention.
+Outside, the most astute dogs, those that knew feeding time was imminent, had crowded the glass door, barking and pawing for attention.
 
-"What kind of plans?"
+"What plans?"
 
-Pharoh stumbled through several seconds of incoherent noise before settling on, "Just...plans."
+Pharoh stumbled through several seconds of incoherent noise before settling on, "Just... plans."
 
-"Look," continued Pharoh, "I need you to arrive home on Saturday with a smile on your face, sun on your skin, and a report card for the fridge. Play along and your mom doens't even need to know about your expulsion. How's that sound?"
+"Look," continued Pharoh, "I need you to arrive home on Saturday with a smile on your face, sun on your skin, and a report card for the fridge. Play along and your mom doesn't even need to know about your expulsion. How's that sound?"
 
 Florence nodded. Maybe it wouldn't be so bad.
 
-*Since our founding in 1989, experience has been best teacher.*
+*Since our founding in 1989, experience has been the best teacher.*
 
-Pharoh took her report card and disappeared into the back office. "I used to work at the Embassy" was all he said as he closed the door, leaving Florence to look after the dogs in his care.
+Pharoh took her report card and disappeared into the back office. "I can fix this. I used to work at the Embassy," was all he said as he closed the door, leaving Florence to look after the dogs in his care.
 
 The first day passed without issue. She walked and petted and fed and cleaned up after more dogs than reasonable (her stepfather was between employees).
 
-It wasn't until her father was packing up to leave for the night that the next phase of the plan became apparent.
+It wasn't until her father was packing up to leave for the night that the first real problem arose.
 
 "Where am I supposed to sleep?"
 
@@ -326,41 +326,41 @@ With that, he left Florence alone.
 
 Only twelve dogs were boarding overnight, but they more than filled the ten kennels that the *Dogsome* had available. And they were not quiet sleepers.
 
-The kitchen was too cold. That bathroom too cramped. She ended up where her father suggested: sleeping on a pile of blankets atop the shiny silver surface of a grooming table.
+The kitchen was too cold. That bathroom, too cramped. She ended up where her father suggested: sleeping on a pile of blankets atop the shiny silver surface of a grooming table.
 
 *Expand the limits of your imagination*
 
-And yet...the room was dark. The building groaned. Outside in the yard, buzzing things with claws and fangs tapped on the glass, asking to get in. Florence tried to ignore them, to ignore the growing worry that they were already inside, crawling on a hundred legs up the table and under the covers with her.
+And yet... the room was dark. The building groaned. Outside, buzzing things with claws and fangs tapped on the glass, asking to get in. Florence tried to ignore them, to ignore the growing worry that they were already inside, crawling on a hundred legs up the table and under the covers, beneath her skin.
 
-*Ranchers gain respect for themselves and others*
+*Campers gain respect for themselves and others*
 
-Her pillow, warm and soft, lept out from under her with a bark, leaving her head to fall onto the concrete below. Her pillow (an Alaskan Malamute named Snuggles) sat in front of the kennel door, tail wagging at the thought of food and playtime.
+A sound awoke her pillow (an Alaskan Malamute named Snuggles), who lept out from under her with a bark and positioned herself in front of the kennel door, tail wagging at the thought of food and playtime.
 
-Adult voices in the waiting room broke through the groggy fog on Florence's brain. Her senses sharpened as she realized this was not a morning dropoff. The words were too animated, too consistent.
+Adult voices from the waiting room broke through the groggy fog on Florence's brain. Her senses sharpened when she realized this was not a morning drop-off. The words were too animated, too consistent.
 
 Florence sat up.
 
-She was surrounded by blankets, a pile at the back of the small concrete stall she'd slept in. Long white and gray dog hair coated her face and clothes.  Light under the door to the feeding room hinted at morning sun.
+Surrounded by blankets, she'd made a pile at the back of the small concrete stall she'd slept in after leaving the grooming room. Long white and gray dog hair coated her face and clothes. Light under the door to the feeding room hinted at morning sun.
 
-She wanted no part of the waiting room drama, especially like this. She yawned and stretched her arms toward the ceiling.
+She wanted no part of the waiting room drama, especially looking like this. She yawned and stretched her arms toward the ceiling.
 
-Then the door knob to the waiting room turned. The boarded dogs all began barking.
+Then the doorknob to the waiting room turned. The boarded dogs all began barking.
 
-Florence stifled a gasp, then crumpled down to the floor. She tossed a pair of blankets over her body, hoping the Malamute's bed would hide her. She shut her eyes tight as if it would help.
+Florence stifled a gasp and crumpled down to the floor. She tossed a pair of blankets over her body, hoping the Malamute's bed would hide her..
 
 "Hey, quiet. Quiet!" Her father.
 
-Peeking out from beneath her blankets, Florence saw two pairs of shoes from under the kennel door.
+Peeking out from beneath her blankets, Florence saw two pairs of shoes.
 
-"Pharoh, I need you to do this for me. He's a VIP at the Consulate and I've already promised him you could have the dogs ready in time for the gala." Florence clenched her jaw at hearing her mother's voice.
+"Pharoh, I need you to do this for me. He's a VIP at the Consulate and I've already promised that you could have the dogs ready in time for the gala this evening." Florence clenched her jaw at hearing her mother's voice.
 
 "I mean, maybe, but what about our plans, Stacey?" A hint of sadness tinged her father's words.
 
 "Pharoh, sometimes plans change."
 
-With a sigh, Pharoh aquiesced. "Fine, fine. I'll get them groomed. I used to work at the Embassy, you know."
+With a sigh, Pharoh acquiesced. "Fine, fine. I'll get them groomed. I used to work at the Embassy, you know."
 
-"Pharoh, love, that work isn't relevant here. I'll let my VIP know and have them unload the dogs."
+"Pharoh, love, that isn't relevant here. I'll let my VIP know and have them unload the dogs."
 
 When the door latched, Florence sat up. Drawn by her movement, her father's face contorted as he looked down at her through the metal bars of the kennel door.
 
@@ -370,41 +370,45 @@ When the door latched, Florence sat up. Drawn by her movement, her father's face
 
 "Nevermind, get back down. Stay hidden. Snuggles, lie down."
 
-Florence under many blankets and one large, heavy dog, stayed hidden as a parade of tiny white legs paraded into through the kennel.
+Florence, under many blankets and one large, heavy dog, stayed hidden as a parade of tiny white legs paraded through the kennel toward the grooming room.
 
-By the time her father had concluded whatever business he had in the waiting room, Florence was coated in sweat, overheating but afraid to move.
+By the time her father had concluded whatever business he had in the waiting room, sweat coated Florence, overheating but afraid to move.
 
 ...
-Fifteen royal dogs, from Pekingese and Japanese Chin to Shih Tzu and English Toy Spaniels waited on leash and in a line, waiting for their handler to return.
 
-Three black SUVs pulled up. A white man in a fancy black suit came in, followed by three more in sturdy suits. Every tail wagged at his arrival. "Ah, there they are, looking better than ever. How are you doing, Bailey? And Muffin? Chip? Ginger? You all look so clean and shiny." He picked one of the Shih Tzus up and smelled her. "Ah, and your smell so fresh! Their Magesties will be so please."
+They wash the dogs?
 
-The man turned to Pharoh. "Thank you, Mr. Dog Washer. My associate at the Consulate was right, you were up to the task. Now, if you'll excuse me, we have a gala to attend." He turned away before Pharoh could respond, shouted "Load them up!" and kicked the front door open.
+...
 
-Moments after the SUVs left, the front door opened once more. Florence's mother, Stacey, walked in with a smile on her face. Florence froze. 
+Fifteen royal dogs, from Pekingese and Japanese Chin to Shih Tzu and English Toy Spaniels, waited in line and on leash for their handler to return.
 
-Stacey walked up to Pharoh and hugged him. "Thank you, Pharoh. That meant a lot to me."
+Three black SUVs pulled up. A white man in a fancy black suit came in, followed by three more sturdy suits. Every tail wagged at his arrival. "Ah, there they are, looking better than ever. How are you, Bailey? And Muffin? Chip? Ginger? You all look so clean and shiny." He picked one of the Shih Tzus up and smelled her. "Ah, and you smell so fresh! Their Majesties will be so pleased!"
 
-Her father's face softened into a smile. "I couldn't have done it alone." He directed Stacey's attention to the corner wher Florence was sitting.
+The man turned to Pharoh. "Thank you, Dog Washer. My associate at the Consulate was right, you were up to the task. Now, if you'll excuse me, we have a gala to attend." He turned away before Pharoh could respond, shouted "Load them up!" and kicked the front door open.
 
-Concern filled her mom's face. Florence wished she were anywhere else.
+Moments after the SUVs left, the front door opened once more. Florence's mother walked in with a smile on her face. Florence, hidden in the corner, froze. 
+
+Stacey walked up to Pharoh and hugged him. "Thank you, Pharoh. That meant a lot to me. There are some people you just have to please."
+
+Her father's face softened into a smile. "I couldn't have done it alone." He directed Stacey's attention to the corner where Florence was sitting.
+
+Concern filled her mom's face.
 
 "Florence, honey, what happened? Why aren't you at camp right now?"
 
-Florence grimaced, then took a deep breath and looked at her mother.
+Florence breathed through a grimace, then looked at her mother.
 
 "Plans change?"
-...
 
+*Unique life experience cultivate resiliancy for every camper*
 
+Her mom returned to the embassy while her data helped pack the two massive cloth bags into their car.
 
+"What were you doing with my report card?"
 
+Her stepfather smiled and patted her on the head. "Oh, don't worry about it. I used to work at the Embassy."
 
-
-
-
-
-Outside, sitting under the shade of the large white oak tree in the yard, sat a big brown boxer, resting after its recent meal. Hanging from its collar was a bowl-shaped tag with the word SHREDDER embossed across its face.
+Out in the yard, sitting under the shade of the large white oak tree in the yard, sat a big brown boxer, resting after its recent meal. Hanging from its collar was a bowl-shaped tag with the word SHREDDER embossed across its face.
 
 
 
