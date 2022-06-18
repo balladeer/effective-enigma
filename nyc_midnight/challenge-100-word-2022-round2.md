@@ -44,13 +44,13 @@ T: Grandmother takes off earrings for the last time. This body is all but used u
 R: Child puts on earrrings. Dies. Grandmother looks out at the world through her new eyes.
 
 ## Draft: Amber Eyes
-Doting amber eyes. I remember little else of my Grandma Florence. Searching old boxes, I seek connection, items to spark lost memories. To my mother, an obligation, but my grandmother treated me well. Why have I forgotten so much? I owe her memory more dignity.
+Doting amber eyes, all I remember about Grandma Florence. I search old boxes for lost recollection. To Mother, I was an obligation, but Grandma cared. Her memory deserves dignity.
 
-Inside the next bin, a thin black box. A gift from my mother I discarded without opening, too young and proud to miss Grandma when they were given. Silver bands untarnished by time, encircle crescents within.
+Inside the next bin, a black box, a gift from my mother that I ignored, too proud to miss Grandma. Immaculate silver bands encircle crescents within.
 
-Florence looks at herself through clouded amber eyes. Aches plague her decrepit body. Time to move on. Removing the moons from her ears, she lays them in the black box before her, seals it as she has many times before, then lays in the bed near the dresser and dies.
+Florence looked through clouded amber eyes. Time to go. Removing the moon earrings, she filled the black box, sealed it as before, then laid down and died.
 
-I smile at the form in the mirror: crescent moon earrings beneath lustrous brown hair. No aches. And best of all, my amber eyes.
+I smile at the mirror, at crescent moon earrings under lustrous hair. Best of all, young amber eyes.
 
 ## Structure for Staying Put
 I: Despite their reassurance, I'm convinced this body is not mine
