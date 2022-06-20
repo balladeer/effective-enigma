@@ -43,10 +43,10 @@ D: Mother treated me like an obligation, but not to my father
 T: Grandmother takes off earrings for the last time. This body is all but used up. Time for the next.
 R: Child puts on earrrings. Dies. Grandmother looks out at the world through her new eyes.
 
-## Draft: Amber Eyes
+## Draft: Amber
 Doting amber eyes, all I remember about Grandma Florence. I search old boxes for lost recollection. To Mother, I was an obligation, but Grandma cared. Her memory deserves dignity.
 
-Inside the next bin, a black box, a gift from my mother that I ignored, too proud to miss Grandma. Immaculate silver bands encircle crescents within.
+Inside the next bin, a black box, an ignored gift from grandmother to mother to me. Earrings. Immaculate silver crescents near gemstone tears.
 
 Florence looked through clouded amber eyes. Time to go. Removing the moon earrings, she filled the black box, sealed it as before, then laid down and died.
 
@@ -59,3 +59,5 @@ T: A memory, not mine: bound to a chair, glass jars and electricity, plasma and 
 R: I look at their hands, their hair, their skin. I am free to leave this body behind. This vessel keeping me safe from the consuming void.
 
 ## Draft: Staying Put
+
+He tells me not to worry, that the feelings are not real.
