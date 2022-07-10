@@ -1,6 +1,5 @@
 # Reconciliation
-
-%% Dynamite Reactive
+<!-- Dynamite Reactive -->
 
 <!-- _One Sentence_: Back in their Community, the teens part ways and Sase, sensing a growing paranoia within himself, heads to the Shipyard, preferring known danger to unknown danger. -->
 

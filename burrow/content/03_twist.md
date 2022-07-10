@@ -1,24 +1,13 @@
 # Twist
+<!-- Dynamite Proactive -->
 
-%% Dynamite Proactive
-
-<!--
-For voice:
-Agatha  -> Ágdá
-Samson -> Sase
- -->
-
-
- <!-- TODO: show more aliens---including humans---living in the Burrow -->
+<!-- TODO: show more aliens---including humans---living in the Burrow -->
 <!-- TODO: Need to have Sase worry more.  -->
-
-<!-- THOUGHT: What if Sase's molting scales cause a problem? Maybe they get left behind and the spies notice? -->
 
 <!-- TODO: Trips through HVAC ducting are going to be short, noisy, painful (from lacerations) and potentially dangerous. -->
 
 <!-- TODO: Move this elsewhere. -->
 <!-- *I'm glad the rust can't get me sick*. -->
-
 
 ## Scene Goal
 
@@ -188,6 +177,7 @@ Crouching over the junction, I kicked the grate free, then lowered myself throug
 The room was small---only 4 meters to a side---and made of heavy stone walls, one carved and three constructed.
 On either side of the natural wall, the adjoining walls held doors: the one that had blocked me on the left and its mirror on the right.
 
+<!-- START: Inkscapes submssion -->
 Unlike the hallways we had arrived from, the room was not abandoned.
 A desk broke the path between the doors.
 Shelves---not dissimilar to those in the hallways---were stocked with papers and rolls, boxes and containers.
@@ -266,7 +256,7 @@ Her eyes were wide and I'm sure our hearts were echoing in the vent.
 
 "They'll hear us if we go back," I said, my voice again whispers.
 
-"They'll us if we move at all. Did you grab the grate?"
+"They'll hear us if we move at all. Did you grab the grate?"
 
 We each stared at the other.
 
@@ -345,7 +335,7 @@ With a click, the electric lamp went out.
 I was wedged across from her, a metal fan several meters behind me blocking any escape.
 To my right, the vent extended several meters before bending upward into a vertical shaft.
 
-"What do you we do?" Ágdá mouthed the words from her position across the open gap between us.
+"What do we do?" Ágdá mouthed the words from her position across the open gap between us.
 Any movement would make noise as the vent sustained our unplanned weight.
 I gestured to the vertical shaft with my eyes. "Over there?"
 
@@ -401,6 +391,7 @@ My muscles grew sore; I stayed where I was, lying on my stomach, unwilling to st
 My molting scales burned, but the burn faded with time.
 So, too, did the light below.
 
+<!-- STOP: Inkscapes submssion -->
 ****
 
 Silence returned.
